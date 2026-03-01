@@ -1,0 +1,39 @@
+---
+title: "Jerry Shannon"
+image: img/posit_headshot.jpg
+about:
+  template: trestles
+  image-width: 200px
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=9ecPCsUAAAAJ&hl=en&inst=2365059173406736517
+    - icon: flag-fill
+      text: UGA Profile
+      href: https://geography.uga.edu/directory/people/jerry-shannon
+    - icon: envelope
+      text: Contact
+      href: contact.qmd
+format:
+  html:
+    theme: [flatly, styles.scss]
+    grid:
+      body-width: 1500px      # default is 800px
+      sidebar-width: 550px
+      margin-width: 550px
+---
+
+I'm a geographer studying how to make urban neighborhoods and food systems healthier and more equitable. My broad interests are in urban development and inequality, geographic information systems, political geography, and place effects on health. More specifically, my research focuses on the role of maps and spatial analysis in shaping our understanding of hunger, housing, poverty, and neighborhood development. I'm also interested in the role of participatory research methods in mobilizing community action around these issues.
+
+I am an associate professor in the [Department of Geography](http://geography.uga.edu) and the [Department of Financial Planning, Housing, and Consumer Economics](http://www.fcs.uga.edu/fhce) at the University of Georgia. I direct the *[Community Mapping Lab](http://www.communitymappinglab.org)* in the Department of Geography. You can find more information on my specific research projects on my [research page](research.qmd) or [browse publications on Google Scholar](https://scholar.google.com/citations?user=9ecPCsUAAAAJ&hl=en&inst=2365059173406736517).
+
+I am recruiting graduate students interested in studying disparities in access to food and housing, participatory and engaged research, and open source GIS tools. As a member of the Community Mapping Lab, students will gain experience with community engaged research as well as supervising and mentoring undergraduates. I am an active member of the [Community Geographies Collaborative](https://cgcollaborative.org/), which is also a specialty group in the AAG.
+
+I encourage prospective graduate students with interests in participatory research in issues related to food systems, housing, and/or race to reach out to me via email. UGA provides four years of guaranteed funding for PhD students.
+
+**Current projects include:**
+
+- Developing the field of community geography through work with UGA's [Community Mapping Lab](http://www.communitymappinglab.org) (CML) and the broader [Georgia Community Geography Collective](https://geog.franklin.uga.edu/research/lab/georgia-community-geography-collective)
+- Working with local communities around the state through the [Georgia Initiative for Community Housing](https://www.fcs.uga.edu/fhce/gich/)
+
+You are welcome to [contact me](contact.qmd) for more information.

@@ -1,0 +1,11 @@
+---
+title: "Vita"
+---
+
+Please see my full CV for details on my academic background, publications, and professional activities.
+
+<iframe 
+  src="https://docs.google.com/document/d/1OWGD0kO0bP9ao6rNgdVOPCWA8mt4rkIamXt2sSVxvP8/preview"
+  width="100%"
+  height="900px">
+</iframe>

@@ -1,0 +1,32 @@
+---
+title: "Research"
+---
+
+Much of my current research is done in partnership with students and community partners through the [Community Mapping Lab](http://communitymappinglab.org). More information on those projects is available on the lab's website. A few selected projects are highlighted below. You can also browse [my peer reviewed publications](https://scholar.google.com/citations?user=9ecPCsUAAAAJ&hl=en&inst=2365059173406736517) on Google Scholar.
+
+## Georgia Hunger Study (2023–24)
+
+Funded by the Georgia Department of Family and Children Services and completed in collaboration with [Feeding Georgia](https://feedinggeorgia.org/), the Georgia Hunger Study was a first-of-its-kind statewide assessment of charitable food assistance. This mixed-methods project combined spatial analysis of food pantry locations, surveys of both providers and clients, and focus groups with pantry volunteers and staff. The results highlight regional disparities in food pantry availability. We also identified how a reliance on volunteer labor and the challenges of communication across agencies produces vulnerabilities within this system.
+
+## Linnentown (2020–2023)
+
+Linnentown was a Black community close to the University of Georgia campus. In the early 1960s, the city of Athens and UGA collaborated on an urban renewal project that forced Linnentown residents off their land for the purpose of building student housing. Working collaboratively with Linnentown descendants, I and students digitized archival records of the project and created maps of the neighborhood. At the request of the Athens mayor, I also led a research team that analyzed the financial losses of this project for Linnentown residents, a figure we estimated at $5 million. As a result of this work, the city of Athens provided $2.5 million in funding for a new Black history center and affordable housing initiatives.
+
+Publications and links:
+
+- [Our report on financial losses for Linnentown residents](https://drive.google.com/file/d/1ubN8xkgFDdf1NyZmddcOK8_9aJIYMNiz/view?usp=drive_link)
+- See the [CML website](https://www.communitymappinglab.org/linnentown.html) for more information on our Linnentown research
+
+## Utilization of Community Social Capital to Address Housing Needs (2014–2021)
+
+This USDA-funded project extends the [Georgia Initiative for Community Housing](http://www.fcs.uga.edu/fhce/gich/3) (GICH) program to examine how actors within Georgia's small cities work together to develop community revitalization projects. My section of this project focuses on developing mostly open source tools for community housing assessments and related materials that support community organization around developing affordable housing. My collaborator on this project is [Dr. Kim Skobba](http://www.fcs.uga.edu/people/bio/kskobba) (PI). Dr. Karen Tinsley also contributed significantly to this project.
+
+---
+
+## Stabilizing Lives (2016–2017)
+
+With financial and logistical support from the Atlanta Community Food Bank, I and others at UGA helped conduct an innovative, mixed-methods, and participatory research project with five agencies serving food insecure households in Metro Atlanta. By combining focus groups and interviews with an adapted form of the photovoice methodology utilizing hierarchical cluster analysis, we identified key factors shaping agency clients' lives and relationships with food pantries. The results of this research will inform future changes in agency practice and speak to the social capital and everyday agency demonstrated by clients.
+
+## SNAP-Ed (2013–present)
+
+[SNAP-Ed](http://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-education-snap-ed) is a federally funded program designed to provide nutrition education for low-income households. The University of Georgia administers this program within the state. As part of this project, I am using data from Georgia's Dept. of Family and Children's Services alongside census data to determine enrollment patterns throughout the state. I am also drawing upon several data sources to map access to food sources and county health offices statewide and determine areas of categorical eligibility.

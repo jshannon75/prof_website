@@ -1,0 +1,11 @@
+---
+title: "Personal Links and Research Tools"
+---
+
+## Personal links
+
+- The [Department of Geography](http://geography.uga.edu) at the University of Georgia, where I work
+- Part of my appointment is also in UGA's [College of Family and Consumer Sciences](http://www.fcs.uga.edu/)
+- My [Google Scholar profile](http://scholar.google.com/citations?hl=en&user=xXeLydUAAAAJ&view_op=list_works&gmla=AJsN-F6r5RJQL-KRfc6LLbICQu52F2EGFMtjY2FkB6Et_lxkqDSTw37k2Sq6vPjqqLyBZwV_SjZDb9pSEYQ8ufI38Hxq619crZFDqJWaM3QZPjk6CkFEz3bPNDBwJ12S0uuwGDZS_4US)
+- My [public repositories on GitHub](https://github.com/jshannon75)
+- I post various technical guides and presentations on [my YouTube channel](https://www.youtube.com/channel/UCoxOuZitJgbas3rFl5lZ1FQ)

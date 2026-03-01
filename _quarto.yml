@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Jerry Shannon"
+  navbar:
+    background: "#1a3a5c"
+    foreground: "white"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: vita.qmd
+        text: Vita
+      - href: research.qmd
+        text: Research
+      - text: Teaching
+        menu:
+          - href: teaching-philosophy.qmd
+            text: Teaching philosophy
+          - href: courses-ive-taught.qmd
+            text: Courses I've taught
+      - text: Et cetera
+        menu:
+          - href: links-for-grad-students.qmd
+            text: Links for grad students
+          - href: personal-links-and-research-tools.qmd
+            text: Personal links and research tools
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "Jerry Shannon | University of Georgia"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [flatly, styles.scss]
+    toc: false
+    include-after-body: open-links.html
