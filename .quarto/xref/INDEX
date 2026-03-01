@@ -1,0 +1,29 @@
+{
+  "contact.qmd": {
+    "contact.html": "54216d44"
+  },
+  "courses-ive-taught.qmd": {
+    "courses-ive-taught.html": "23abf8f8"
+  },
+  "index.qmd": {
+    "index.html": "6ebbc9df"
+  },
+  "links-for-grad-students.qmd": {
+    "links-for-grad-students.html": "972ccb1a"
+  },
+  "personal-links-and-research-tools.qmd": {
+    "personal-links-and-research-tools.html": "9c43580a"
+  },
+  "research.qmd": {
+    "research.html": "9ccb32fd"
+  },
+  "side-maps.qmd": {
+    "side-maps.html": "6c1ac55d"
+  },
+  "teaching-philosophy.qmd": {
+    "teaching-philosophy.html": "7a9c48e1"
+  },
+  "vita.qmd": {
+    "vita.html": "4bb2d9b3"
+  }
+}
