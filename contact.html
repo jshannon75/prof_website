@@ -194,17 +194,23 @@ University of Georgia</p>
 </main> <!-- /main -->
 <script>
 
-  document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
 
-    document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+  document.querySelectorAll('a[href^="http"]').forEach(function (link) {
 
-      link.setAttribute('target', '_blank');
+    const url = new URL(link.href);
 
-      link.setAttribute('rel', 'noopener noreferrer');
+    if (url.hostname !== window.location.hostname) {
 
-    });
+      link.setAttribute("target", "_blank");
+
+      link.setAttribute("rel", "noopener noreferrer");
+
+    }
 
   });
+
+});
 
 </script>
 
