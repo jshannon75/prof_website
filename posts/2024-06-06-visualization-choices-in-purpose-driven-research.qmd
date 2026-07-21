@@ -1,0 +1,28 @@
+---
+title: "VISUALIZATION CHOICES IN PURPOSE-DRIVEN RESEARCH"
+date: "2024-06-06"
+author: "Daniel Klein, Community GIS student in Spring 2024"
+---
+
+By Daniel Klein, Community GIS student in Spring 2024
+This spring in Community GIS, we are working on a report that explores ongoing changes to the historically Black neighborhood of Inner East Athens (IEA), and the difficulties and disparities that its residents face. As we began work on this project, our 19-strong class of student geographers split into more focused subgroups, with each person being assigned a specific role in their respective group. My group, Demographics, is using data from the U.S. Census Bureau to look at the current demographic characteristics of IEA, compare the neighborhood to the rest of Athens, and assess how the area has changed over the last five to ten years. My role is the Cartography and Visualization lead, which means I am in charge of taking data and creating the final visuals that will complement our written report.
+
+When I found out that I was assigned this position, I was admittedly relieved. I wouldn’t have to deal with the headaches inevitably engendered by finding data sources, wrestling those data files into something we could use, or dealing with finicky functions in GIS software. I would get to do the fun stuff, the thing that most people assume you do all day when you say you study geography—make maps. However, once I started mapping, I was met with a series of difficult choices surrounding how exactly I would visualize my group’s findings, stemming from one cartographic truism: there are umptillion possible ways to visualize the same data, and unfortunately for all of us, there’s no “correct” method.
+ 
+Take some of the dilemmas I faced as I tried to complete this task, which I thought would be simple. First, I wondered whether I should even use a map to represent some of our findings. Might a graph or a table be better? And if I make a map, should I show data at the census block group level, or the less granular census tract level? On one hand, displaying block groups could pinpoint hotspots of rapid demographic change, but with such a fine analysis, a viewer might miss the forest for the trees and not see the broader trends in IEA. 
+ 
+Another area of confusion was the best way to demonstrate change over time. For instance, one question my group wanted to answer is how the number of IEA residents who are enrolled in college has changed over time, as increasing numbers of college-enrolled individuals might be a sign that an influx of student housing and students is forcing out long-time residents. But when comparing the percent of college-enrolled residents in 2022 and 2012, should I visualize the change in percent or the percent change for each block group? The former is easier to understand, but it wouldn’t highlight areas of exponential change. A block group that increases by a factor of six from 4% to 24% would look the same as one that increases from 75% to 95%, but the first is far more interesting for my group’s purposes than the second. Meanwhile, showing the percent change would call attention to rapid increases or decreases, but is less intuitive for the viewer—“percent change in percents” is almost as hard to understand as it is to say out loud.
+
+Two methods of mapping change over time for proportions, a change in percent (left) and a percent change (right). Each calls attention to different areas, and thus tells a different story.
+
+These visualization choices, despite how trivial they probably seem, became more serious when I considered the way our work may be used in the future. For once, my cartographic choices would not be contained to the shelter of a university course; instead, they would be showcased to the broader public. Not to overstate my own importance, but whether or not my maps effectively communicated our findings could play some small role in our community partners’ ability to secure grants, or whether policymakers view the ongoing changes in IEA as important.
+ 
+The solution to these issues at which I arrived: make the visualization choices that convey the points you want to emphasize. It’s vague, it’s disappointingly ad hoc, but it’s the only remedy that will work in all cases. Every research question is different, and there’s no singular best practice for all projects.
+ 
+In one’s maps, you must balance a kind of internal and external validity: Does your visualization faithfully depict the results of your analysis? And does it authentically depict what is occurring in the “real world”? Sometimes, you have to sacrifice one of these qualities for the other, like the earlier discussion of change in percent vs. percent change. In the end, I opted to show changes in percent because I prioritized digestibility, even though areas of rapid change might appear muted. But another researcher, working on a different project, trying to make a different point might choose otherwise. That’s okay—just be aware of the implications on what the reader will take home from your conclusions.
+ 
+All maps tell a story. But some stories are more useful than others.
+
+Keywords: Cartography, visualization, research
+ 
+Bio: Daniel Klein is a fourth-year studying International Affairs, with minors in Sociology and Political Science and a certificate in Geographic Information Sciences. After graduating in spring 2024, he plans to explore employment in the field of public opinion research before ultimately pursuing a PhD in political science.

@@ -1,0 +1,34 @@
+---
+title: "Community GIS and the LInnentown Project: A Collaboration"
+date: "2020-05-15"
+author: "Jerry Shannon"
+---
+
+By Jerry ShannonRelated posts: Aidan's reflection | Katrina's reflectionMany southern universities have faced increased calls to deal with complicated histories of racial exclusion. At the University of Georgia, pressure for the institution to explicitly address the historical legacies of slavery was increased by the 2015 discovery of 105 remains near Baldwin Hall on campus, unearthed during construction of a building expansion. Subsequent testing revealed that many of these individuals had African ancestry, and given the historical period of use for the adjacent city cemetery, this implied that most were likely enslaved. These bodies were reinterred by the university at a nearby active cemetery, but without consultation with leaders from the local African-American community, which caused further tension.
+
+In response, the university has made efforts to acknowledge its historical complicity with enslavement, creating a memorial that honors those buried at the Baldwin Hall site and sponsoring two related research initiatives. The first resulted in the online Athens Layers of Time portal, which provides materials about the Baldwin Hall burials specifically and the historical expansion of campus. The second, currently ongoing, is examining the role of enslaved people in the university’s life from its founding through 1865. UGA also joined the Universities Studying Slavery consortium in December 2019. Both efforts are the result of advocacy by community members and faculty for the university to address historical legacies of enslavement.
+
+Still, the university’s relationship with the local African-American community remains fraught. Only 7.5% of undergraduates and 5% of faculty identify as African-American, while nearly half of service and maintenance staff do. The numbers for student and faculty are far below rates in Clarke County (29%) and Georgia (32%). Specifically, there are rising concerns that new student housing is displacing low-income African-American residents, raising property taxes and putting upward pressure on rents.
+
+The Linnentown Project is one local effort to call attention to these issues. It focuses on the Linnentown neighborhood, a historically black area just west of campus that was demolished in the early 1960s to make space for new student dormitories.Residents of this neighborhood--many of whom were home owners--were most often forced out through the use of condemnation findings and eminent domain. Through public forums and public protests, residents have told the story of their forced removal from the neighborhood, advocating for compensation for financial losses, and further research around the university’s role in slavery and displacement.
+
+Map of Linnentown and the surrounding area by Community GIS student Dane Hulsey
+Joey Carter, who has helped lead the Linnentown Project, had previously identified multiple records about this redevelopment in special collections at UGA Libraries. These included maps of the neighborhood used to plan property acquisition, correspondence from UGA administrators and legislators about the urban renewal funding used for construction, and detailed records about each property acquired. While he was able to do initial analysis of some of these data, the scanned records had more data than the group could easily enter and analyze.
+
+This spring, students in the Community GIS course offered by Dr. Shannon sought to support this effort through digitizing and analyzing these archival records. More specifically, students in the class focused on the following tasks:
+Georeferencing historical maps and aerial photos of the neighborhood and digitizing features including roads, parcels lines, and buildings.
+Entering property data based on maps and the removal records. This included residents’ names, tenure status (own/rent), and monthly income, as well as the results of a home inspection done by the city.
+Conducting a sketch mapping project with former residents to identify omissions and errors in the official records.
+Digitizing census records from the 1940 census, which is now publicly available. These provided historical context for the neighborhood and provided data on topics such as employment and household composition not available in other sources. Hope Bleasdale, an exchange student from the University of Liverpool, also helped with this work.
+
+
+
+Sketch mapping with former residents
+The goal of this project was to crowdsource some of the data entry aspects of this analysis as well as to build a database that could supplement residents’ existing narratives of their displacement. As former resident Hattie Whitehead noted at the beginning of the project, Linnentown was for decades a neighborhood that existed primarily in the memories of those who lived there. By putting it literally “on the map,” our class aimed to provide materials that preserved those memories and provide visual representations that could be used for future education and activism. To adapt Baudrillard’s famous quote, our mapping helped “engender” the territory of Linnentown--giving physical representation to an already existing social reality.
+
+This was, of course, an especially challenging semester for all university classes. In addition to the already existing challenges of coordinating this work among a class of 18 students, we spent a full third of the semester communicating only digitally through Zoom and online discussion boards. Digitizing records for neighborhoods and streets that no longer exist was also a challenging task for the class.
+
+Two graduate students in this course--Aidan and Katrina--have written blog posts about their experiences in the course. In final reflections, other students were clearly impacted by learning about this history and being part of the larger project. Many students have lived in the dorms built on this land, which made it especially personal, and talking with former residents about their experience gave life to the archival data they had been working with. Overall, the goal of our work as a class was to make this chapter of the university’s complicated history more legible and help amplify the experiences and perspectives of Linnentown residents. We hope to further refine these records in the future in coordination with the Linnentown Project.
+
+Author
+Jerry Shannon is an Assistant Professor at the University of Georgia in the Departments of Geography and Financial Planning, Housing, & Consumer Economics. He is the director of the Community Mapping Lab.

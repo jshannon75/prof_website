@@ -1,0 +1,35 @@
+---
+title: "the role of community gis: from mapping to advocacy"
+date: "2025-03-15"
+---
+
+by Jabari A.S Lottie
+
+This semester, I have been taking a Community GIS course that has deepened my understanding of how Geographic Information Systems (GIS) can serve as a tool for communication, storytelling, and empowerment within communities. My coursework has focused on Brooklyn Cemetery, a historically significant burial site for Black families in Athens, Georgia. Through mapping, spatial analysis, and assessing data integrity, I have begun to recognize the critical gap between what geospatial data reveals and what it omits.
+​
+Brooklyn Cemetery, like many historically Black cemeteries, has faced decades of neglect due to systemic racial and economic injustices. While GIS offers valuable tools for mapping and preservation, it cannot fully capture the depth of historical and cultural narratives embedded in such spaces. This realization has challenged my initial perception of GIS as a neutral, purely analytical tool. Instead, I now see it as a medium for participatory engagement and advocacy.
+GIS as a Tool for Community Problem-Solving
+ 
+Engaging with “Doing Community Geography” (Shannon & Walker, 2018) and other foundational texts has expanded my perspective on how GIS can be applied to address real-world community issues. The concept of Public Participation GIS (PPGIS) (Sieber, 2006) emphasizes that GIS should not be limited to experts but instead serve as a platform where communities can contribute geographic data, challenge dominant narratives, and influence decision-making. The application of GIS in Brooklyn Cemetery illustrates how geospatial tools can be used to restore historically significant sites by mapping burial locations, overlaying historical maps with current land use data, and integrating oral histories.
+ 
+Beyond historical preservation, GIS has broader applications in addressing pressing social and environmental issues. It can be used to analyze urban inequalities, identify environmental injustices, and support participatory planning efforts. For instance, in marginalized communities, GIS can highlight disparities in access to public resources such as parks, transit, and grocery stores. It can also track patterns of gentrification and displacement, providing data-driven support for advocacy efforts. GIS, when combined with qualitative research methods like community mapping and oral histories, becomes a powerful tool for amplifying underrepresented voices and shaping more equitable planning decisions.
+Power and Representation in GIS
+ 
+A recurring theme in community-based GIS work is the issue of power dynamics, who collects data, who interprets it, and whose stories are included. As Sieber (2006) discusses, traditional GIS applications often privilege institutional perspectives, excluding community knowledge from the decision-making process. At Brooklyn Cemetery, this became evident when I met with Linda Elder Davis, a longtime Athens resident and co-founder of the Friends of Brooklyn Cemetery. While maps and datasets provided information on burial sites, they failed to capture the personal histories of those interred there or the impact of systemic neglect on the cemetery’s condition. Davis’s oral histories and local expertise provided essential context that GIS alone could not.
+ 
+This experience reinforced the importance of Deliberative GIS, a model proposed by Schlossberg and Shuford (2005), which positions GIS as a collaborative decision-making tool rather than merely a spatial analysis tool. Deliberative GIS encourages ongoing community participation, ensuring that residents actively shape projects rather than passively receiving pre-determined plans. This shift in perspective challenges the traditional top-down approach to urban planning and underscores the need for equity in spatial decision-making.
+Rethinking the Role of GIS in Planning
+ 
+Initially, I viewed GIS as a means for technical analysis, a way to visualize data, model spatial relationships, and guide decision-making. However, this course has reshaped my understanding of GIS as a narrative tool, one that can bridge the gap between data and lived experience. GIS should not simply document existing conditions but also facilitate dialogue, empower communities, and support social justice initiatives.
+ 
+As I move forward in my career as a planner, I anticipate using GIS in ways that prioritize community engagement and participatory decision-making. Rather than solely relying on quantitative data, I aim to integrate qualitative storytelling methods, such as oral histories and participatory mapping, to ensure that planning efforts reflect the needs and perspectives of those directly affected. This shift in thinking acknowledges the ethical responsibilities of using GIS, recognizing that spatial data is never neutral and that maps have the power to shape narratives and policies.
+ 
+Brooklyn Cemetery serves as a compelling case study for the transformative potential of GIS when applied through a justice-oriented lens. It demonstrates that GIS, when used thoughtfully, can be more than a technical tool, it can be an instrument for recovery, resilience, and representation in historically marginalized communities.
+
+References:
+ 
+Elwood, S. (2008). Volunteered geographic information: Future research directions motivated by critical, participatory, and feminist GIS. GeoJournal, 72(3-4), 173-183.
+Harvey, D. (2001). Cartographic identities: Social representation and geographic information systems. Annals of the Association of American Geographers, 91(1), 1-11.
+Schlossberg, M., & Shuford, E. (2005). Deliberative GIS: GIS as a tool to support community decision- making. URISA Journal, 16(2), 15-29.
+Shannon, J., & Walker, J. (2018). Doing Community Geography: Lessons from Case Studies. Routledge.
+Sieber, R. (2006). Public participation geographic information systems: A literature review and framework. Annals of the Association of American Geographers, 96(3), 491-507.

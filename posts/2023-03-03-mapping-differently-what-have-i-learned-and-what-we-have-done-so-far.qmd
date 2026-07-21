@@ -1,0 +1,53 @@
+---
+title: "Mapping Differently - What Have I Learned and What We Have Done So Far?"
+date: "2023-03-03"
+author: "Caroline Shin, Student in Community GIS, Spring 2023"
+---
+
+By Caroline Shin, Student in Community GIS, Spring 2023Taught by Dr. Shannon, Community GIS (GEOG 4385/6385-L) is a course that focuses specifically
+on how engaged research intersects with GIS and how community-engaged geospatial research
+can actually be practiced. By this, I mean that this class utilizes a project-based approach to
+learning, where we would collaboratively and collectively work toward completing certain tasks
+as part of a larger project—as opposed to sitting through lectures and completing a series of
+labs (a format found in many of the classes here at UGA). The two main projects planned for
+this semester are 1) creating a digital archive and map of Brooklyn Cemetery and 2) mapping
+the process of eviction in Athens—the first of which is currently underway.
+Brooklyn CemeteryAs a brief background, the Brooklyn Cemetery (officially known as the Bethlehem Cemetery),
+which was established in 1882, was one the first African American cemeteries in Athens, GA. It
+has served as the final resting place for the residents of the Brooklyn and Hawthorne
+neighborhoods in West Athens. For those of you that are familiar with the Athens area, the
+cemetery lies behind Clarke Central Middle School on West Lake Drive. Due to neglect, however,
+the cemetery has experienced large overgrowth and many unmarked or hard-to-see gravesites
+(especially in the background of the naturally wooded area); the objective of this project would
+be to aid the trustees in their revitalization efforts of the cemetery by interactively mapping the
+area (cemetery boundaries, roads/trails, section markers, gravesites, names of the deceased,
+etc.) so as to hopefully help make easier the process for descendants to find their ancestors.
+ImpactsPrior to this course (and to this project), I was unfamiliar with the history of the Brooklyn
+Cemetery, and learning more about it has really been an eye-opening and enlightening
+experience for me as someone who generally enjoys learning a bit of history and should,
+especially in the place where I attend school. And considering that the Brooklyn Cemetery is an
+African American cemetery, the historical relationship between African Americans and the city
+of Athens as a whole. Because it feels more personal and that the stakes are higher, we
+discussed the importance of paying attention to not only to the technical aspects and
+challenges (i.e., inconsistency of points and GPS) but also to the emotional and effective
+elements about doing this work (i.e., the visceral experience and connection, the feelings of
+disrespect for the remains (especially for unmarked graves)). Personally, I agree with a lot of
+these points brought up in discussion.Throughout our work on the cemetery, we have collaborated with Linda Davis, one of the
+cemetery trustees and a prominent community member; speaking with the class about the
+cemetery’s historical and emotional significance, her passion struck a chord, shifting my
+perspective and perhaps giving me a greater understanding of the community’s attachment.
+Because I was unaware of Brooklyn Cemetery, I did not initially have any sort of connection;
+however, after visiting Brooklyn Cemetery and seeing the state that it’s in, I immediately felt
+that attachment (albeit nowhere near the level of those who are personally connected to the
+cemetery) as it was obviously unique and largely invisible to the usual passerby—given how
+uniquely situated it is. This experience also gave me immense respect for the community
+trustees and others fighting for the cemetery’s visibility (as well as the ones buried there) as
+their work has been largely based on oral records.
+Despite the positive feelings a mapper may get from helping the community from outside the
+‘ivory tower’ of an institution, it is essential not to let personal feelings, experience, or ego
+obscure the needs of the community voiced by community members themselves. As such, a key
+idea of community-engaged research learned from this class is respect and the important
+practice of active listening as this project is not for you but for the community. This is not to say
+that people do not care about community needs or do not have their best interests in heart, but
+it takes time and a conscious effort (and reminders) to build that trust and to properly engage
+with community members.

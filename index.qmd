@@ -1,6 +1,6 @@
 ---
 title: "Jerry Shannon"
-image: img/posit_headshot.jpg
+image: img/37894-001_sm.jpg
 about:
   template: trestles
   image-width: 200px

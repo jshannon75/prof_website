@@ -1,0 +1,72 @@
+---
+title: "Thinking about GIS Differently"
+date: "2023-04-19"
+author: "Matthew Thurston, Community GIS student in Spring 2023"
+---
+
+By Matthew Thurston, Community GIS student in Spring 2023
+
+This semester, I have been taking the Community GIS class offered at the University of
+Georgia. This class is designed to introduce students to how GIS can be used effectively to
+engage with a community. Before taking this class, my experience with GIS work was limited to
+producing maps made specifically to be turned in for a grade. I was excited to see this course
+offered, as it sounded like the perfect experience to give back to the local community after going
+to school here and also get to use GIS skills for something greater than just producing a map to
+turn in. Helping the local community is important, especially through work done through the
+University of Georgia, as I feel so often that the university is not concerned with the local
+community and instead worries only about what happens within the confines of campus.
+Throughout the semester, we have learned a variety of topics, but we have been working on two
+major projects for the majority of the class.
+
+Our first main project was concerned with the Brooklyn Cemetery in Athens, Georgia.
+Brooklyn Cemetery is an African-American Cemetery, and houses many ancestors of people
+still living in the area. We worked closely with the local community, especially the Board of
+Trustees for Brooklyn Cemetery and Linda Davis. Hearing her talk and her enthusiasm for this
+project made me realize the significance of the work we were doing. For this project, we had
+four main goals that we wanted to accomplish. We first wanted to go back through the cemetery
+to make sure every gravesite was updated and had a correct location assigned to it. Secondly,
+we wanted to create both a printed map and an online map that would show the location of the
+gravesites, as well as other important features. In conjunction with this, we wanted to also
+create section markers for the cemetery. Finally, the creation of metadata was required in order
+to make the data of Brooklyn Cemetery organized, and to preserve the data for any future work
+done on the cemetery. In order to accomplish these tasks, the class split into four groups. My
+group was tasked with creating the online and printed maps. Additionally, I assisted in the data
+gathering and cleaning, as this was crucial in producing our accurate maps. In order to do this,
+we used Field Maps as well as the ArcGIS Map builder online. It was a great experience
+working in conjunction with everyone. Everyone knew their role, and completed their jobs.
+Seeing the finished products reminded me that we were doing something much bigger than just
+producing a map. Compared to GIS classes of old, we were simply given the data already made
+for us, and then went about producing a map or product. However, here we had to collect the
+data ourselves. This process was new to me, and something I had not done before in my
+previous classes. Additionally, this data and map were related to the local community. In
+projects past, the work we created was usually for maps that had no relation to Athens or any
+surrounding community. Additionally, this map we were creating would be used by people for
+years to come. In previous classes, the maps I had created were never really published and had
+little bearing on anyone.
+
+For our second project, we have started work on eviction mapping. This is a joint project
+being done with the help of the Athens Housing Advocacy Team. The Athens Housing
+Advocacy Team (AHAT) is concerned with fighting for the right to affordable housing in Athens,
+Georgia by working and building relationships with renters and other allies in the city. Before this
+project began, I had no idea that there was such a large problem of eviction in Athens. I knew
+that rent was increasing in Athens, but I figured that was mainly just in the downtown area of
+Athens, where a bunch of students live. I had no idea that there were companies buying up
+large swaths of property in Athens and forcing out residents by declining Section 8 vouchers
+and driving rent prices up as inordinate amounts. In order to prepare for this project, we read
+some pieces about situated mapping, critical mapping, and other anti-eviction mapping projects.
+These pieces were a good introduction into this large topic, as beforehand I was very unfamiliar
+with segments of it. We have just begun to get into the real work for the project, but I am excited
+to dive deeper into it. This work seems like it could help the local community greatly, so I am
+eager to see what we can do in the rest of our class.
+
+Overall, this class has taught me the impact that GIS and mapping can have. GIS can be
+more than just plotting points on a map. Instead, real community work can be done, which
+involves deep collaboration with the community to produce results that will help them positively.
+This can be done by talking to local community members, perhaps in meetings or assemblies.
+By talking to community members, you can sense what issues really plague them, and then
+develop a plan to help them. I enjoyed that aspect of the Brooklyn Cemetery project, as we
+listened to what the community wanted and tried to incorporate it into our project. In the next few
+weeks, I am eager to begin to work more on the eviction mapping project. We have had guest
+speakers talk to us about the issues faced, and hopefully these issues can be remedied.
+Looking forward to the far future, I hope I can use the skills learned in this class to keep working
+for my local community

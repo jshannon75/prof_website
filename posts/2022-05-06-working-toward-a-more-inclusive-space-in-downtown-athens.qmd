@@ -1,0 +1,29 @@
+---
+title: "Working Toward a More Inclusive Space in Downtown Athens"
+date: "2022-05-06"
+author: "Rachael Glenn, Community GIS student in Spring 2022"
+---
+
+By Rachael Glenn, Community GIS student in Spring 2022
+
+I was introduced to the Athens Anti-Discrimination Movement (“AADM”) the summer when the Black Lives Matter movement was in full force. They hosted multiple rallies that successfully culminated in the removal of a confederate monument that once stood in front of the UGA Arch and only feet away from the Holmes-Hunter academic building, named after the first African Americans to attend UGA. There is still a sign behind the Arch naming the Civil War a “war for southern independence,” but I digress. I was happily reintroduced to AADM through our Community GIS course to partner in support of their “United Against Discrimination” sticker campaign. This campaign in particular was sparked by reports of downtown bars racially discriminating against students and local residents of color back in 2016.
+
+​AADM is a local non-profit here in Athens, GA that focuses on initiatives to advocate for racial and social justice. Some of their work includes hosting community discussions, events, workshops, and resources designed to help people protect their civil and human rights (AADM). Currently, AADM has a sticker campaign called “United Against Discrimination” where businesses in Athens are able to participate with 3 easy steps laid out on their website.
+“United Against Discrimination” Sticker on the CVS Downtown Athens
+Sign a pledge to continuously work toward creating a more diverse and inclusive workplace
+Join the movement by displaying the sticker in front of their business
+Commit to attending one of AADM’s workplace trainings or annual conference
+The point of the campaign is to commit business owners in the downtown and surrounding area to stand in solidarity against discrimination regardless of race, gender, age, sexual orientation, or immigration status. This campaign highlights a simple yet outstanding way that businesses can create a more inclusive culture. Displaying the sticker, as pictured above, is a physical reminder that everyone is welcome in their establishment. 
+
+Our Community GIS course has partnered with them to help with the campaign data and to create a web map of the downtown area of businesses that have joined the campaign. Our first step in getting this sorted was verifying which businesses were still participating in the campaign based on the list they provided us. In order to create an updated list for our map, we participated in canvassing downtown, speaking directly with businesses and seeing if they were still participating. Canvassing involves soliciting people, often by going door-to-door for personal contact in an effort to raise awareness, fundraise, politically campaign, and, in our case, collect data and support a local movement.
+
+The Athens downtown area is comprised of 170+ businesses, so in the spirit of collaborative work, each student received a block to complete. We used the ArcGIS field maps app so we could directly update business information. The field map app lets users directly update and edit data as they are collecting it during fieldwork. I quickly learned how useful canvassing could be to get accurate data about a community and, in the same vein, how important it is to ensure everyone is on the same page when it comes to community work to produce accurate and usable data.
+
+Before starting this process, our class took class time to plan the canvassing. When engaging in collaborative community work, this is such an important step so that 1) everyone understands the goal and definitions involved in the project, 2) knows the process, and 3) how the technology works. In our case, the process was visiting each business in our block, checking who was participating in the campaign, and marking their status.
+
+Using the field maps app, I was able to directly update the data into the app for my block, “block 2021.” This is where the planning from before came in hand. I was able to understand which types of businesses we were including, what verified meant, how to add new businesses, what to do with old ones, etc. 
+
+ArcGIS Field Maps App Data Collection
+Going from business to business was a bit daunting, thinking I could face rejection and even worrying about saying the right words to market the campaign. However, my worries were settled after proposing the campaign to the first business. I found they were open and eager to hear about the campaign and how they could join.
+
+Moreover, from this process, I was able to understand how fieldwork and collaborative work can be managed and facilitated to benefit a community. Our class's work canvassing showed us an easy way to organize and reach many businesses in a short amount of time. However, for this small commitment, multiple people and community members will see the Anti-Discrimination stickers on businesses and perhaps see a more welcoming environment. As UGA students, I think it is incredibly rewarding to do work that is directly benefiting the local Athens community. In most cases, many of us come to Athens to enjoy the city and all it has to offer but fail to give back. This project enabled us to counter this imbalance and participate in a positive social campaign that benefits Athens to learn how to facilitate community work and all the mishaps that can come with it.

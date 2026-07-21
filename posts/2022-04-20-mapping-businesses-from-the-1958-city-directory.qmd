@@ -1,0 +1,35 @@
+---
+title: "Mapping businesses from the 1958 City directory"
+date: "2022-04-20"
+author: "Matt CassadaStudent in Community GIS, Spring 2022"
+---
+
+By Matt Cassada
+Student in Community GIS, Spring 2022
+
+When we initially started the 1958 Athens Census Mapping Project, I had initially a good idea of what I wanted to do since I noticed two distinct features with the Athens Census Mapping Data: population of the entire area along with businesses around the area. Next, I considered the timing of when this mapping took place which was in 1958. During this time, segregation was still a lingering issue across the Deep South, and this was true in both major urban and rural areas. Finally, I noticed that this mapping data also included major businesses around the Athens area and this included pretty much everything that was a business: federal businesses, food, entertainment, religious groups, and many more.
+
+With these central ideas already placed for me, I decided upon the following observations:
+Focus on the businesses around Athens and make that the central point of your argument.
+Focus on who owns those businesses, specifically if the business was a colored business or a non-colored business.
+Finally, look at the population difference between colored and non-colored residents.
+
+With this plan, I decided to then form my central question/argument for the project which is: "Based on the location/concentration of either colored or non-colored owned businesses, does the population distribution of colored and non-colored residents seem different across Athens-Clark county area? Do you also see a population distribution difference based on if the particular resident was either a colored or non-colored resident? Is their a particular business that could be made out where we see the strongest correlation and is their one with the lowest correlation in relation to Athens population data and business location’s?"
+
+With these questions in place, I then progressed into making my own maps. We all started with a excel/point data of the Athens 1958 Census Data, which we got thanks to cleaning out the initial data. I knew that I had to create two initial data sets just for the residents of the area I made two different point data sets, one for colored residents and one for non-colored residents. This proved to be easy since each resident is listed out if they are colored or non-colored residents. I then inputted the point data into ArcGIS and I then signaling out/deleting the data that was needed for each point set. Thus, when I did this, I ended up with two different point data sets for both colored and non-colored residents.
+
+Initially, you do see some distribution differences in the point data. First, we see that the non-colored residents are more spread out across the Athens area and they are not as centralized. This is different for colored residents who were more centralized near downtown Athens and east of Athens. Colored residents were also less dispersed and more organized compared to non-colored residents. They we more organized in that they were more grouped together.
+
+When it came to making the business points, I must first start off and say that given that data wasn't 100% complete. We still had some business points that were not complete and plenty of businesses that were not registered in the excel data. But I still pressed on with my maps since I still had just about over 300-400 businesses I could look at.
+
+To make the point sets for the businesses, I first needed to make some distinctions between businesses. Since I wanted to look at what kind of businesses had the greatest correlation for residents, I needed to focus businesses out of each point data set and give them their own distinction. After looking through each business, I noticed four different business categories:
+Shops/Entertainment
+Religious
+Food
+Health/Beauty
+
+With these distinctions in place, I implemented the same overall process I did when it came for the residents in Athens. I cross referenced the points that were businesses and centered on those. I then went through each point individually to look at what category they would fall under based on the distinctions I made. I then repeated this process for all four different business categories.
+
+Finally, when it came to patterns that I noticed with the businesses and its correspondence to residents, the one business I noticed that had the most central concentration was near religious businesses, like churches. The one business that had the least appeared to be food businesses, with very little shown correlation between the two for either resident.
+
+In conclusion, this mapping project proved to be insightful to me. As someone who has never lived in Athens, its interesting to see how the demographics and businesses across the city has changed since the late 1950’s. This project showed not only how residential demographics has changed, but also how businesses across downtown Athens have shifted: from more of a rural area to a more college-themed town.

@@ -25,5 +25,317 @@
   },
   "vita.qmd": {
     "vita.html": "4bb2d9b3"
+  },
+  "posts/2018-11-24-here-be-dragons-recognizing-the-monsters-in-our-maps.qmd": {
+    "2018-11-24-here-be-dragons-recognizing-the-monsters-in-our-maps.html": "d8234b81"
+  },
+  "posts/2018-12-06-democratizing-the-map-at-state-of-the-map-asia.qmd": {
+    "2018-12-06-democratizing-the-map-at-state-of-the-map-asia.html": "715815fa"
+  },
+  "posts/2018-12-23-the-geography-of-invitation-homes-in-gwinnett-county-georgia.qmd": {
+    "2018-12-23-the-geography-of-invitation-homes-in-gwinnett-county-georgia.html": "f0017035"
+  },
+  "posts/2019-01-18-mapping-the-dragon-the-worlds-we-support-the-worlds-we-assimilate.qmd": {
+    "2019-01-18-mapping-the-dragon-the-worlds-we-support-the-worlds-we-assimilate.html": "7f69e6eb"
+  },
+  "posts/2019-02-14-workshop-in-community-geography-a-first-report.qmd": {
+    "2019-02-14-workshop-in-community-geography-a-first-report.html": "01fb0d46"
+  },
+  "posts/2019-03-03-where-to-stay-after-retirement-elderly-migration-pattern-in-georgia.qmd": {
+    "2019-03-03-where-to-stay-after-retirement-elderly-migration-pattern-in-georgia.html": "a70d03c6"
+  },
+  "posts/2019-03-18-an-open-source-mapping-tool-for-the-snap-ed-nutrition-program.qmd": {
+    "2019-03-18-an-open-source-mapping-tool-for-the-snap-ed-nutrition-program.html": "8ffd6f66"
+  },
+  "posts/2019-03-31-exploring-the-boundaries-of-esris-web-appbuilder-a-reflection-on-what-i-lost-and-what-i-gained.qmd": {
+    "2019-03-31-exploring-the-boundaries-of-esris-web-appbuilder-a-reflection-on-what-i-lost-and-what-i-gained.html": "7bb1c5fe"
+  },
+  "posts/2019-04-14-recognizing-indigenous-cultural-ecosystem-services-through-participatory-gis-in-southeast-ecuador.qmd": {
+    "2019-04-14-recognizing-indigenous-cultural-ecosystem-services-through-participatory-gis-in-southeast-ecuador.html": "f41050f7"
+  },
+  "posts/2019-04-26-on-the-limits-of-open-data.qmd": {
+    "2019-04-26-on-the-limits-of-open-data.html": "4dac0c04"
+  },
+  "posts/2019-09-18-maps-dont-lie.qmd": {
+    "2019-09-18-maps-dont-lie.html": "c4ae0359"
+  },
+  "posts/2019-10-22-on-viral-cartography-mapping-for-recognition-and-reorientation.qmd": {
+    "2019-10-22-on-viral-cartography-mapping-for-recognition-and-reorientation.html": "62618f8f"
+  },
+  "posts/2019-11-08-reflections-on-doing-crime-analysis-in-a-rural-georgia-community.qmd": {
+    "2019-11-08-reflections-on-doing-crime-analysis-in-a-rural-georgia-community.html": "10622112"
+  },
+  "posts/2020-01-20-cml-update-spring-2020.qmd": {
+    "2020-01-20-cml-update-spring-2020.html": "72803f27"
+  },
+  "posts/2020-02-01-curo-reflection-mapping-social-services.qmd": {
+    "2020-02-01-curo-reflection-mapping-social-services.html": "59a6ddaf"
+  },
+  "posts/2020-05-15-community-gis-and-the-linnentown-project-a-collaboration.qmd": {
+    "2020-05-15-community-gis-and-the-linnentown-project-a-collaboration.html": "d7099ea4"
+  },
+  "posts/2020-05-15-reflection-on-community-gis-aidan.qmd": {
+    "2020-05-15-reflection-on-community-gis-aidan.html": "3cd849df"
+  },
+  "posts/2020-05-15-reflection-on-community-gis-katrina.qmd": {
+    "2020-05-15-reflection-on-community-gis-katrina.html": "82a5f785"
+  },
+  "posts/2020-07-29-cmlreads-wilson.qmd": {
+    "2020-07-29-cmlreads-wilson.html": "57a703ae"
+  },
+  "posts/2020-12-18-mapping-social-services-in-northeast-georgia.qmd": {
+    "2020-12-18-mapping-social-services-in-northeast-georgia.html": "54f40d8f"
+  },
+  "posts/2021-05-05-creating-a-bike-route-network-for-athens-clarke-county.qmd": {
+    "2021-05-05-creating-a-bike-route-network-for-athens-clarke-county.html": "aae153a5"
+  },
+  "posts/2022-03-18-here-be-practical-things-i-have-learned.qmd": {
+    "2022-03-18-here-be-practical-things-i-have-learned.html": "47f5821f"
+  },
+  "posts/2022-03-18-reflections-on-uga-and-linnentown.qmd": {
+    "2022-03-18-reflections-on-uga-and-linnentown.html": "53a61afb"
+  },
+  "posts/2022-03-23-linnentown-eminent-domain-and-generational-wealth.qmd": {
+    "2022-03-23-linnentown-eminent-domain-and-generational-wealth.html": "f6e573a0"
+  },
+  "posts/2022-04-20-building-trust-in-community-research.qmd": {
+    "2022-04-20-building-trust-in-community-research.html": "555062d9"
+  },
+  "posts/2022-04-20-georeferencing-in-arcgis-pro.qmd": {
+    "2022-04-20-georeferencing-in-arcgis-pro.html": "8e940245"
+  },
+  "posts/2022-04-20-mapping-and-multiple-perspectives.qmd": {
+    "2022-04-20-mapping-and-multiple-perspectives.html": "3d12566f"
+  },
+  "posts/2022-04-20-mapping-businesses-from-the-1958-city-directory.qmd": {
+    "2022-04-20-mapping-businesses-from-the-1958-city-directory.html": "f3375490"
+  },
+  "posts/2022-04-20-the-impact-and-importance-of-community-gis.qmd": {
+    "2022-04-20-the-impact-and-importance-of-community-gis.html": "c5a1c446"
+  },
+  "posts/2022-05-06-get-lost.qmd": {
+    "2022-05-06-get-lost.html": "43bd3b3b"
+  },
+  "posts/2022-05-06-open-source-makes-gis-more-accessible-to-the-public.qmd": {
+    "2022-05-06-open-source-makes-gis-more-accessible-to-the-public.html": "d6d6b7ee"
+  },
+  "posts/2022-05-06-opening-access-to-gis-in-support-of-aadm.qmd": {
+    "2022-05-06-opening-access-to-gis-in-support-of-aadm.html": "992cd7fc"
+  },
+  "posts/2022-05-06-top-5-lessons-from-community-gis.qmd": {
+    "2022-05-06-top-5-lessons-from-community-gis.html": "16e6aa9a"
+  },
+  "posts/2022-05-06-working-geographically.qmd": {
+    "2022-05-06-working-geographically.html": "d0682135"
+  },
+  "posts/2022-05-06-working-toward-a-more-inclusive-space-in-downtown-athens.qmd": {
+    "2022-05-06-working-toward-a-more-inclusive-space-in-downtown-athens.html": "a004dc4f"
+  },
+  "posts/2022-05-12-what-ive-learned-this-semester.qmd": {
+    "2022-05-12-what-ive-learned-this-semester.html": "f9ce6461"
+  },
+  "posts/2023-01-02-covid-19-eviction-crisis-rent-and-evictions-on-the-rise.qmd": {
+    "2023-01-02-covid-19-eviction-crisis-rent-and-evictions-on-the-rise.html": "9e2f38f5"
+  },
+  "posts/2023-03-03-empathy-and-community-research.qmd": {
+    "2023-03-03-empathy-and-community-research.html": "cf35afe1"
+  },
+  "posts/2023-03-03-mapping-brooklyn-cemetery-challenges-but-benefits.qmd": {
+    "2023-03-03-mapping-brooklyn-cemetery-challenges-but-benefits.html": "e9a5c81f"
+  },
+  "posts/2023-03-03-mapping-differently-what-have-i-learned-and-what-we-have-done-so-far.qmd": {
+    "2023-03-03-mapping-differently-what-have-i-learned-and-what-we-have-done-so-far.html": "6fc9e541"
+  },
+  "posts/2023-03-03-the-positive-outcomes-of-community-gis.qmd": {
+    "2023-03-03-the-positive-outcomes-of-community-gis.html": "39c4447d"
+  },
+  "posts/2023-03-14-mapping-evictions-in-athens-ga.qmd": {
+    "2023-03-14-mapping-evictions-in-athens-ga.html": "a5f0b34f"
+  },
+  "posts/2023-04-18-a-different-gis-path.qmd": {
+    "2023-04-18-a-different-gis-path.html": "99efdff0"
+  },
+  "posts/2023-04-18-a-reflection-on-my-change-in-perspective-pertaining-to-the-field-of-gis.qmd": {
+    "2023-04-18-a-reflection-on-my-change-in-perspective-pertaining-to-the-field-of-gis.html": "6c36fe05"
+  },
+  "posts/2023-04-18-reflections-on-collaborative-design-processes.qmd": {
+    "2023-04-18-reflections-on-collaborative-design-processes.html": "05172b1c"
+  },
+  "posts/2023-04-19-the-meaning-of-gis.qmd": {
+    "2023-04-19-the-meaning-of-gis.html": "c425e2ce"
+  },
+  "posts/2023-04-19-thinking-about-gis-differently.qmd": {
+    "2023-04-19-thinking-about-gis-differently.html": "45ba53b8"
+  },
+  "posts/2023-05-05-anti-eviction-mapping-and-community-gis.qmd": {
+    "2023-05-05-anti-eviction-mapping-and-community-gis.html": "333065b5"
+  },
+  "posts/2023-05-05-bringing-community-geography-to-the-environment.qmd": {
+    "2023-05-05-bringing-community-geography-to-the-environment.html": "3529fd05"
+  },
+  "posts/2023-05-05-collective-learning-for-community-mapping.qmd": {
+    "2023-05-05-collective-learning-for-community-mapping.html": "409440bb"
+  },
+  "posts/2023-05-05-producing-landlord-maps-and-countermapping-evictions.qmd": {
+    "2023-05-05-producing-landlord-maps-and-countermapping-evictions.html": "7c10ae52"
+  },
+  "posts/2023-05-05-reflecting-on-the-practices-of-geographic-information-science.qmd": {
+    "2023-05-05-reflecting-on-the-practices-of-geographic-information-science.html": "0c95d480"
+  },
+  "posts/2023-05-05-reflection-on-the-importance-of-community-gis-as-an-indigenous-scholar.qmd": {
+    "2023-05-05-reflection-on-the-importance-of-community-gis-as-an-indigenous-scholar.html": "1d2cb2ff"
+  },
+  "posts/2023-05-05-situated-mapping-as-a-uga-student.qmd": {
+    "2023-05-05-situated-mapping-as-a-uga-student.html": "571af214"
+  },
+  "posts/2023-05-06-community-gis-from-the-prospective-of-an-archaeology-student.qmd": {
+    "2023-05-06-community-gis-from-the-prospective-of-an-archaeology-student.html": "d051ecb4"
+  },
+  "posts/2023-05-06-the-community-in-community-gis.qmd": {
+    "2023-05-06-the-community-in-community-gis.html": "adc21f3d"
+  },
+  "posts/2023-09-19-mapping-labor-geographies-in-the-1958-athens-directory.qmd": {
+    "2023-09-19-mapping-labor-geographies-in-the-1958-athens-directory.html": "15379840"
+  },
+  "posts/2024-02-26-my-first-experience-in-east-athens.qmd": {
+    "2024-02-26-my-first-experience-in-east-athens.html": "a219d0a0"
+  },
+  "posts/2024-03-18-community-mapping-co-production-of-knowledge-and-how-i-understand-research.qmd": {
+    "2024-03-18-community-mapping-co-production-of-knowledge-and-how-i-understand-research.html": "5b04b528"
+  },
+  "posts/2024-03-18-making-home-through-community-gis.qmd": {
+    "2024-03-18-making-home-through-community-gis.html": "ffdc35e6"
+  },
+  "posts/2024-03-18-my-first-look-at-east-athens.qmd": {
+    "2024-03-18-my-first-look-at-east-athens.html": "6acb27fd"
+  },
+  "posts/2024-04-25-a-reflection-on-co-production-of-research-in-geography-from-an-ecologists-perspective.qmd": {
+    "2024-04-25-a-reflection-on-co-production-of-research-in-geography-from-an-ecologists-perspective.html": "1b711004"
+  },
+  "posts/2024-04-25-a-student-researchers-perspective-on-studentification.qmd": {
+    "2024-04-25-a-student-researchers-perspective-on-studentification.html": "59985200"
+  },
+  "posts/2024-04-25-approaching-the-task-of-planning-a-large-scale-group-project.qmd": {
+    "2024-04-25-approaching-the-task-of-planning-a-large-scale-group-project.html": "d60e795f"
+  },
+  "posts/2024-04-25-april-25th-2024.qmd": {
+    "2024-04-25-april-25th-2024.html": "09795ea9"
+  },
+  "posts/2024-04-25-april-25th-20245215669.qmd": {
+    "2024-04-25-april-25th-20245215669.html": "10d28654"
+  },
+  "posts/2024-04-25-april-25th-20248839022.qmd": {
+    "2024-04-25-april-25th-20248839022.html": "95391633"
+  },
+  "posts/2024-04-25-community-gis-and-studentification-in-east-athens.qmd": {
+    "2024-04-25-community-gis-and-studentification-in-east-athens.html": "5c058cce"
+  },
+  "posts/2024-04-25-goodness-gracious-its-gentrification.qmd": {
+    "2024-04-25-goodness-gracious-its-gentrification.html": "68370845"
+  },
+  "posts/2024-04-25-strategic-positivism-in-inner-east-athens.qmd": {
+    "2024-04-25-strategic-positivism-in-inner-east-athens.html": "074b354d"
+  },
+  "posts/2024-06-06-behind-the-scenes-of-geographic-information-sciences.qmd": {
+    "2024-06-06-behind-the-scenes-of-geographic-information-sciences.html": "11b7d6d7"
+  },
+  "posts/2024-06-06-building-bridges-perspectives-from-across-the-river.qmd": {
+    "2024-06-06-building-bridges-perspectives-from-across-the-river.html": "690f961f"
+  },
+  "posts/2024-06-06-empowering-communities-through-community-gis-a-path-to-addressing-food-security-amidst-gentrification-in-inner-east-athens.qmd": {
+    "2024-06-06-empowering-communities-through-community-gis-a-path-to-addressing-food-security-amidst-gentrification-in-inner-east-athens.html": "d66ebf9b"
+  },
+  "posts/2024-06-06-the-art-of-research.qmd": {
+    "2024-06-06-the-art-of-research.html": "55f6a054"
+  },
+  "posts/2024-06-06-visualization-choices-in-purpose-driven-research.qmd": {
+    "2024-06-06-visualization-choices-in-purpose-driven-research.html": "68b907bf"
+  },
+  "posts/2024-06-06-what-does-community-mapping-praxis-look-like.qmd": {
+    "2024-06-06-what-does-community-mapping-praxis-look-like.html": "7b5ff7fe"
+  },
+  "posts/2024-06-10-moving-from-the-where-to-the-why-in-eviction-mapping.qmd": {
+    "2024-06-10-moving-from-the-where-to-the-why-in-eviction-mapping.html": "2a7def3d"
+  },
+  "posts/2025-03-15-meanings-of-cemetery-landscapes.qmd": {
+    "2025-03-15-meanings-of-cemetery-landscapes.html": "84823858"
+  },
+  "posts/2025-03-15-reflections-on-work-with-brooklyn-cemetery.qmd": {
+    "2025-03-15-reflections-on-work-with-brooklyn-cemetery.html": "04207f3e"
+  },
+  "posts/2025-03-15-representation-of-families-and-individuals-using-historical-data.qmd": {
+    "2025-03-15-representation-of-families-and-individuals-using-historical-data.html": "cfb3b46b"
+  },
+  "posts/2025-03-15-the-role-of-community-gis-from-mapping-to-advocacy.qmd": {
+    "2025-03-15-the-role-of-community-gis-from-mapping-to-advocacy.html": "da34ef08"
+  },
+  "posts/2025-03-15-visibility-and-neglect-at-brooklyn-cemetery.qmd": {
+    "2025-03-15-visibility-and-neglect-at-brooklyn-cemetery.html": "afc52401"
+  },
+  "posts/2025-04-04-april-04th-2025.qmd": {
+    "2025-04-04-april-04th-2025.html": "cea56006"
+  },
+  "posts/2025-04-04-brooklyn-cemetery-thoughts-and-reflections.qmd": {
+    "2025-04-04-brooklyn-cemetery-thoughts-and-reflections.html": "d9ed3364"
+  },
+  "posts/2025-04-04-community-mapping-brooklyn-cemetery.qmd": {
+    "2025-04-04-community-mapping-brooklyn-cemetery.html": "3f3620a6"
+  },
+  "posts/2025-04-04-connection-and-community-engagement-in-research-spaces.qmd": {
+    "2025-04-04-connection-and-community-engagement-in-research-spaces.html": "052cb6b0"
+  },
+  "posts/2025-04-04-power-and-ethics-in-community-mapping.qmd": {
+    "2025-04-04-power-and-ethics-in-community-mapping.html": "2d4fb6dd"
+  },
+  "posts/2025-04-04-questions-that-matter-to-the-brooklyn-cemetery-community.qmd": {
+    "2025-04-04-questions-that-matter-to-the-brooklyn-cemetery-community.html": "8835c96f"
+  },
+  "posts/2025-04-04-the-role-of-community-in-gis-class.qmd": {
+    "2025-04-04-the-role-of-community-in-gis-class.html": "54151390"
+  },
+  "posts/2025-04-04-unveiling-the-layers-of-brooklyn-cemetery.qmd": {
+    "2025-04-04-unveiling-the-layers-of-brooklyn-cemetery.html": "e82f9315"
+  },
+  "posts/2025-04-30-a-critical-evaluation-of-our-brooklyn-cemetery-project.qmd": {
+    "2025-04-30-a-critical-evaluation-of-our-brooklyn-cemetery-project.html": "f6c5596a"
+  },
+  "posts/2025-04-30-birding-in-brooklyn.qmd": {
+    "2025-04-30-birding-in-brooklyn.html": "fabfc41a"
+  },
+  "posts/2025-04-30-black-life-in-athens-acknowledging-pasts-recognizing-presenceand-amplifying-futures-through-community-mapping.qmd": {
+    "2025-04-30-black-life-in-athens-acknowledging-pasts-recognizing-presenceand-amplifying-futures-through-community-mapping.html": "489ab0fc"
+  },
+  "posts/2025-04-30-considering-community-gis-as-a-way-out-to-preserve-the-history-of-a-community-perspective-taken-from-the-historical-brooklyn.qmd": {
+    "2025-04-30-considering-community-gis-as-a-way-out-to-preserve-the-history-of-a-community-perspective-taken-from-the-historical-brooklyn.html": "1e55fe8e"
+  },
+  "posts/2025-04-30-doing-research-in-brooklyn-cemetery.qmd": {
+    "2025-04-30-doing-research-in-brooklyn-cemetery.html": "7dbc7188"
+  },
+  "posts/2025-04-30-how-geographers-are-increasing-visibility-in-brooklyn-cemetery.qmd": {
+    "2025-04-30-how-geographers-are-increasing-visibility-in-brooklyn-cemetery.html": "1e205d93"
+  },
+  "posts/2025-04-30-learning-and-working-with-brooklyn-cemetery.qmd": {
+    "2025-04-30-learning-and-working-with-brooklyn-cemetery.html": "7a05e18a"
+  },
+  "posts/2025-04-30-the-brooklyn-cemetery-a-symbol-of-systemic-racism.qmd": {
+    "2025-04-30-the-brooklyn-cemetery-a-symbol-of-systemic-racism.html": "7b7edb8f"
+  },
+  "posts/2025-05-27-gis-mapping-and-reese-street-in-athens.qmd": {
+    "2025-05-27-gis-mapping-and-reese-street-in-athens.html": "49b37c87"
+  },
+  "posts/2025-05-27-learning-to-pivot.qmd": {
+    "2025-05-27-learning-to-pivot.html": "bdf70ec3"
+  },
+  "posts/2025-05-27-storymapping-queer-climate-justice.qmd": {
+    "2025-05-27-storymapping-queer-climate-justice.html": "c5797e2f"
+  },
+  "posts/2025-12-12-research-in-brooklyn-cemetery-honoring-its-residents-through-the-use-of-gis.qmd": {
+    "2025-12-12-research-in-brooklyn-cemetery-honoring-its-residents-through-the-use-of-gis.html": "3367b4f9"
+  },
+  "posts/2026-02-02-the-absented-presence-of-brooklyn-cemetery.qmd": {
+    "2026-02-02-the-absented-presence-of-brooklyn-cemetery.html": "1878d731"
+  },
+  "posts/index.qmd": {
+    "index.html": "609f65ca"
   }
 }

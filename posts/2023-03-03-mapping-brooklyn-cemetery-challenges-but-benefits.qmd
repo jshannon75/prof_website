@@ -1,0 +1,38 @@
+---
+title: "Mapping Brooklyn Cemetery: Challenges But Benefits"
+date: "2023-03-03"
+author: "Sarah O'Neal, Student in Community GIS, Spring 2023"
+---
+
+By Sarah O'Neal, Student in Community GIS, Spring 2023
+
+Over the past several weeks, the Community GIS service-learning class at the University of Georgia (GEOG 6385) has been working to update GIS data for the Brooklyn Cemetery. Project kickoff involved watching the documentary Below Baldwin, which concerns the discovery and controversial burial of former slaves’ bodies found under Baldwin Hall during construction. Below Baldwin showcases the university’s reluctance to publicly recognize the history of slavery on campus, as well as its questionable site selection for the bodies’ final resting place. Linda Davis, who is prominently featured in the documentary, as well as other community members, argued for the bodies to be located at Brooklyn Cemetery, an African American cemetery opened 1880. However, the university chose not to consult these community members and instead selected Oconee Cemetery as the bodies’ final burial place.
+ 
+Davis and community members preferred Brooklyn Cemetery for the bodies’ final resting place because the cemetery houses many former slaves’ remains and thus plays a major role in Athens’ African American history. The cemetery features seven sections (A-G), each with varying levels of grave markings—some graves are marked with PVC pipe and others are entirely unmarked, with no way of identifying who lies beneath. The borders of the cemetery and its sections are somewhat ambiguous, and various maps that have been created over the years contradict each other.
+
+
+Some graves are marked with PVC pipe and others are entirely unmarked, with no way of identifying who lies beneath. UGA Brooklyn Cemetery Project.
+For the past several years, Davis and other Brooklyn Cemetery trustees have overseen an extensive revitalization and preservation effort. With the assistance of several volunteer groups and nonprofits, the trustees have backfilled sunken graves, developed roads, cleared substantial overgrowth, and restored gravesites. Most importantly, the trustees have blocked numerous redevelopment efforts—thereby cementing Brooklyn Cemetery’s standing as a significant historical site.
+
+The 2023 Athens MLK Day of Service at Brooklyn Cemetery. The Red & Black; Photo/Libby Hobbs
+The Community GIS class plans to support these ongoing efforts. As part of Phase 1, the Community GIS class has been working together to clean, merge, and verify existing data points.
+ 
+The class has four primary goals for the secondary phase of the Brooklyn Cemetery project:
+Create a consolidated file of those buried in each section of the cemetery and update locational data to reflect each gravesite.
+Create updated, durable section markers for the cemetery that include specific geographic and burial information.
+Develop a plan for print or online maps that can be easily accessed by those visiting or working in the cemetery.
+Create metadata, document data sources, and provide an overview of Brooklyn cemetery data in an organized and sustainable way. This will also involve developing a data storage plan for project posterity.
+ 
+Each of these goals plays an equally important role in the cemetery’s preservation. For each item, the class plans to work with Linda Davis and other community partners involved with the Brooklyn Cemetery. Feedback from these stakeholders will help ensure that our provided solutions continue to be sustainable, practical, and impactful.
+ 
+The class is facing a few challenges with this project. First, the project is constrained by a limited timeline—the Brooklyn Cemetery Project is intended to encompass the first half of the semester, but the weeks are quickly passing. Thus, each group will need to quickly define scope, priorities, and deliverables.
+ 
+Within this hurried timeline, the class must also revisit data from past projects to validate their accuracy. The borders of each section, for example, are somewhat ambiguous and vary considerably in size; the class must define and demarcate precise section boundaries. Also, sections A, B, and E are much larger than the others. The class is considering potentially dividing these sections into subcategories.
+ 
+As part of Group 1, I am tasked with confirming the accuracy of grave marker data— specifically graves containing identifying information. Group 1 has partnered with Group 2 (responsible for developing a cemetery map) to ensure that every marked grave is properly recorded. Next, we hope to create an accurate map that cemetery visitors can access via pamphlet or QR code.
+ 
+During this process, I have faced challenges ensuring accurate locational data because my mapping device (my phone) sometimes has difficulty identifying my exact location. This process demands caution, as any small discrepancy can cause the map to be incorrect.
+ 
+While the mapping project itself is somewhat straightforward, I have struggled with the graves in my section that are marked but the writing has become illegible over time; it is difficult to comprehend that these individual’s identities may have permanently disappeared. I also believe that the unmarked graves deserve to be mapped in some manner, but our time constraints preclude us from doing so. However, by storing and memorializing the graves we can currently see, we protect additional identities from being lost should their physical markers degrade with time.
+ 
+Group 1’s success not only depends on the work completed, but also on the sustainability and adaptability of each deliverable. Our group hopes to produce tangible assets that other community members can continue refining after project completion, and that our community stakeholders can enjoy for years to come.

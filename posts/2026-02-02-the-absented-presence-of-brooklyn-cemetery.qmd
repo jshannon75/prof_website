@@ -1,0 +1,33 @@
+---
+title: "The Absented Presence of Brooklyn Cemetery"
+date: "2026-02-02"
+---
+
+Jerry Shannon
+
+This spring, I'm teaching my Community GIS course again. This is a studio/fieldwork based class that pairs literature on community geography and critical GIS with some kind of community based project. The general focus of this class stays the same across semesters (let's talk about positionality!), but the projects themselves range pretty widely.
+
+This semester is the third we've spent working with Brooklyn Cemetery here in Athens. This historically Black cemetery was created in the 1880s and was active for a little over a century. Reflecting the legacy of enslavement and Jim Crow in Athens, it was not able to collect funds for any ongoing endowment, and thus it was not financially possible to pay for ongoing care of this space. By the mid-2000s, the wisteria and kudzu had overtaken much of it. Since then, a volunteer effort coordinated by Friends of Brooklyn Cemetery, led by Ms. Linda Davis, has made gradual improvements to the space. However, there's still some ways to go. 
+(function(jQuery) { function init() { window.wSlideshow && window.wSlideshow.render({elementID:"933448214596765320",nav:"thumbnails",navLocation:"bottom",captionLocation:"bottom",transition:"fade",autoplay:"0",speed:"5",aspectRatio:"auto",showControls:"true",randomStart:"false",images:[{"url":"4\/4\/4\/8\/4448867\/dji-fly-20260201-140932-0112-1769991104524-photo.jpg","width":"800","height":"450"},{"url":"4\/4\/4\/8\/4448867\/pxl-20260201-185331476-long-exposure-01-2.jpg","width":"800","height":"568"},{"url":"4\/4\/4\/8\/4448867\/pxl-20260201-185925224-long-exposure-02-original-2.jpg","width":"640","height":"800"},{"url":"4\/4\/4\/8\/4448867\/pxl-20260201-185022339.jpg","width":800,"height":600,"fullHeight":800,"fullWidth":1067}]}) } jQuery(document).ready(init); })(window.jQuery)
+There's multiple other posts from students here talking about the contributions that Community Mapping Lab has made to this work, and you can also read more about it on this page. We have helped organize and standardize data on gravesites collected by other groups before us, and we also worked with Ms. Linda to formalize section boundaries within the cemetery. 
+
+This semester, we are continuing work on helping make gravesites easier to find, primarily through mapping some of the many trees in this space to mark subsections that could be "adopted" by local organizations. As part of their introduction to this work, students are introduced to the concept of "absented presence," In Demonic Grounds, Katherine McKittrick posits that this term "outline[s] how processes of displacement erase histories and geographies which are, in fact, present, legitimate, and experiential" (p. 33). It refers to places central to Black life and history whose presence persists despite symbolic and/or physical erasure. 
+
+It's not difficult to understand Brooklyn Cemetery through this lens. It remains physically present, due primarily to the work of Ms. Linda and others in the community whose unpaid labor has cleared brush, hauled branches, and spread mulch. Yet this presence is precarious. Gravesites have been moved due to or covered over by development that surrounds the space. Volunteer labor is reliant on having someone willing to recruit, organize, and train. In the south, the weeds don't take long to take over. 
+Ms. Linda speaking with Community GIS students
+But erasure isn't only a physical threat. In an early assignment, I ask students to make a map of the cemetery using ArcGIS Online, a commonly used online mapping platform. It allows them a chance to explore the data we have already and to sharpen their mapping skills in the process. One task they must complete for this lab, however, is to use an basemap that shows the cemetery as a polygon. This shouldn't be difficult. The cemetery has been present for more than a century, and it is legally registered in the city's property records. 
+
+The screenshots below show how the cemetery shows up in the basemaps Esri provides with ArcGIS Online:
+
+That big blank spot in the middle is where the cemetery should be. Google and Bing aren't much better, with just a single pin:
+Maybe these map platforms just don't show cemetery spaces? For comparison, here's how Esri and Google show Oconee Hill Cemetery, which is located close to campus, has a perpetual care fund, and is the resting place of many confederate veterans and prominent 19th century Athenians.
+
+Here, we have both pins and a polygon. To underscore the difference here, Oconee Hill was the site chosen by UGA for the reinterment of roughly 125 remains of likely enslaved individuals found buried under the Baldwin Hall parking lot. 
+
+One map that DOES show Brooklyn Cemetery? OpenStreetMap. This likely reflects the awareness and diligence of the volunteers mapping Athens features on this platform. It also results in downstream users, such as Mapbox, creating maps that show the cemetery space. OSM is the only one of Esri's available basemaps to recognize the cemetery's presence.
+
+Why does this matter? Most of the students in my course have never heard of Brooklyn Cemetery, despite its role as one of the two major burial sites for Athens' Black residents over its history. More to the point, Black cemeteries nationwide face profound challenges due to their lack of financial resources and limited visibility. The Black Cemetery Network is one organization working to change this dynamic, and the Biden adminstration provided funds through the National Park Service to help preserve and restore these spaces..
+
+The symbolic erasure of this cemetery space makes efforts to recognize and protect these spaces more difficult. In the last year, federal policy changes have removed mentions of enslavement and Black history from public view, most recently by removing a monument recognizing nine of George Washington's slaves. In Athens, memorials to the white men who created the university are prominent, and UGA has only two markers that give any mention to its troubled racial history. Although the legacies of this history remain painfully present, these absences speak volumes.
+
+It's unclear how best to engage large companies (Esri, Google, Microsoft) about this issue. Yet through mapping the cemetery space and creating pathways for community members to engage in its care, our class is trying to fill this cartographic void.

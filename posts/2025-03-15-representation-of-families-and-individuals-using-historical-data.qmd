@@ -1,0 +1,21 @@
+---
+title: "Representation of Families and Individuals using historical data"
+date: "2025-03-15"
+author: "Aaron Castro"
+---
+
+by Aaron Castro 
+
+This semester, I have had the privilege of taking Community GIS with Dr. Shannon. With it being my first service learning class, I was unsure of what I was signing myself up for. Is this about GIS? Are we going to have active engagement with Athens communities? After learning about the subject of the class, Brooklyn Cemetery, which is a historically black cemetery here in Athens, I realized that this class was going to be more fulfilling than I could have imagined. For context, not only have I been eager to engage with an Athens community/communities, but I recently have gotten interested in the history of Athens as well. In groups, we have been tasked with accumulating data for our respective family plots utilizing various sources online. These include census tracts, city directories, Ancestry pages, and more. Though I have not had much experience with data scourging before, I am enjoying the experience thus far and has proved to be beneficial to my development in working within collaborative group settings.
+ 
+My group's assigned family is the Cole/Woodall family. The initial database for this family had many missing fields which were necessary for further research. These can be things like birth years, death years, and even links between the two families. As a class, we came to an agreement to make a uniform list of data fields to uncover. I was definitely eager to begin our research. Our group decided to split the hefty workload into sources, as opposed to splitting it by the names of the individuals. I was in charge of scouring Athens city directories for information including occupations, employers, residential addresses, and whether they owned or rented their properties. These city directories date all the way back to 1889 so it was time to get to work.
+ 
+Searching these city directories takes lots of time and effort to get every bit of information they provide. Certain abbreviations are listed next to the names of individuals that can represent either their race, occupation, or their tenure to their residence. I found it beneficial to keep a screenshot of the list of abbreviations located within the first few pages of the directories for reference. Working with lots of data in different groups is challenging due to the fact that everyone's formatting preferences will be different. Currently, we are working on getting the class’s data formatted in unison as to correctly display the data correctly. As I combed through every listed city directory provided by the University of Georgia’s digital library, I began to think about how this data does not tell the story of these people and their families. Sure, this data provides info on where these people lived and worked, but what about their personalities, goals, accomplishments, and early lives?
+ 
+This is where the class's data collection is going to come to life. With census tracts, city directories, and other online resources, ArcGIS StoryMaps will be created to give our respective families some background. I have personally never made my own StoryMap, but have seen others’ maps in other geography classes and I am eager to see how they turn out. What I said before, about the data not having any life, will soon be moved into a lively display of the histories of these families. I think what I am most excited about is to give people that have attachment to these families a visual of data that they may not have been able to replicate.
+ 
+I am hoping that when our data collection is complete, and maps are created, that the stories of these families are represented in the best manner to the community. I am keeping in mind that there is life behind this data and should be treated with the utmost respect. 
+
+Aaron is a 4th year geography major pursuing certificates in GIS and urban/metropolitan studies.
+
+Keywords: GIS, Communities, Data, Athens

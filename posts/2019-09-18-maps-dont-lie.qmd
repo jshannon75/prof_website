@@ -1,0 +1,24 @@
+---
+title: "Maps Don't Lie?"
+date: "2019-09-18"
+---
+
+Taylor Hafley, Jerry Shannon, Aileen Nicolas, and Jon HallemeierIn a controversially entitled NYT op-ed, Maps Don’t Lie, Charles Blow argues President Donald Trump has no regard for the truth. Blow frames his argument around ‘sharpie-gate’--a reference to the President’s marker-modified map of Hurricane Dorian’s path--and places his trust in maps, writing “because of [the] unyielding commitment to accuracy, I believe cartography enjoys an enviable position of credibility and confidence among the people who see it. If you see it mapped, you believe.”
+
+We certainly appreciate NYT’s op-ed page highlighting the value of geography and mapmaking, but as a group committed to investigating the hidden assumptions behind maps, Blow’s argument gives us pause. By anchoring his sharpie-gate critique on cartographers’ commitment to ‘accuracy’ and ‘precision,’ Blow situates his argument on shaky ground. Maps may be factual, but they can also certainly deceive us--no sharpie required. 
+
+We commend Blow for defending cartographers so strongly, but as Mark Monmonier recently restated, maps lie, and they do so regularly. Below, we identify three reasons to hold back from the “maps don’t lie” defense. 
+ 
+Mutilated maps can be good
+Blow says he found the “mutilated map...just too much’, arguing that mapmaking has a long commitment to factual accuracy and that the work of cartographers should not be defiled. This puts professionally-created maps on too high a pedestal - maps can and sometimes should be "mutilated." For example, the same sharpie pen might be wielded by a meteorologist from the National Weather Service to communicate real-time changes to weather models. Or, in another context, a community member might "mutilate" a map created by cartographers because it is missing critical pieces known only by locals. Indeed, maps are not merely visualized facts. Rather, they present robust narratives about the world and the processes that shape it. These stories work in part due to mutual trust in the maps and mapmakers. As the Floating Sheep collective argued, sometimes “Pretty maps are better than ugly maps, but ugly maps do in a pinch.”
+
+
+Beautiful maps can mislead
+Second, maps can be accurate, marker-free, and enable a person to tell the story of their choosing. For example, Trump’s fascination with electoral college maps has been well documented. One hangs in the West Wing and according to the Washington Post, Trump was handing out copies of the 2016 electoral college map several months into his presidency, saying his election was ‘redder than an electoral victory had ever been.’ Yet the same data can look quite different when controlling for population, as Kenneth Field’s gallery of election maps demonstrates. The president’s favorite map doesn’t lie outrightly, but it certainly provides a misleading view of the political landscape. 
+
+Maps tell stories that are selective
+Third, maps provide partial facts and shape public understanding through a cartography of omission. Maps contribute to larger, simplified narratives which have real-world consequences. For example, maps of crime or school rankings on real estate website may shape homebuyers’ decisions. Yet these maps leave out a long history of policies from redlining to zoning that have created and maintained a deeply segregated landscape, and in doing so contribute to the reproduction of those same socioeconomic divisions. 
+
+Conversely, maps are at the same time instrumental in challenging these histories and omissions. For example, San Francisco’s Anti-Eviction Mapping Project or this map of white collar crime zones show how maps can provide counternarratives that shape public conversations about neighborhood identity. The point isn’t to make a map that tells the whole story, but a map that tells the right one. What is the right story, we might ask? Therein lies the issue, as this is a political and ethical question, not an empirical one.
+
+We applaud the painstaking work of meteorologists who create maps that save lives, and we agree that maps should strive for factual accuracy. Even so, every map’s story is always partial, involving questions such as how to demarcate uncertainty and risk. A sharpie may even sometimes be needed. In this light, the president’s Alabama hurricane may provide a lesson on how to read maps. Rather than decrying the mutilation of ‘truthful’ maps, we should look at all maps with a critical eye, seeking to understand the stories they tell and obscure.

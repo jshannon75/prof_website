@@ -1,0 +1,37 @@
+---
+title: "Power and Ethics in Community Mapping"
+date: "2025-04-04"
+author: "Sarah Justice"
+---
+
+by Sarah Justice
+
+Introduction
+
+In the service learning course “Community GIS” at the University of Georgia, our class is working on a project mapping gravesites and recording family history in a historically Black cemetery. Brooklyn Cemetery, located behind the recently rebuilt Clarke Middle School, has served the Black community of Athens Clarke-County and has become a focus for service learning under the Community Mapping Lab at UGA. 
+
+Spatial practices in the past have involved erasure and oppression of African American communities, especially concerning issues like redlining, displacement of Black peoples, and urban renewal. Whether unknowingly or not, the systemic racism and mindset of individuals can perpetuate the oppression of Black communities. However, mapping can be a powerful tool for Black presence, justice, and visibility. 
+
+People engaging in this work–especially students, researchers, or outsiders–may struggle with feeling unqualified or even uncomfortable when representing Black spaces. How do we avoid mistakes of the past and accomplish our goal of empowering and uplifting the Black community? I, for one, have struggled with feeling competent in completing this project, especially attending a university that was established on the foundation of stolen land, slavery and racism (Berry et al).
+
+The Power of Mapping in Black Empowerment
+
+Mapping can entrench and create systemic inequality by misrepresenting or completely omitting histories important for context. Mapping can and has, however, served to expose racial disparities and preserve Black culture and history.
+
+For example, the Chicago Black Social Culture Map (CBSCM) traces Black Chicago’s music and migration history and “exists to preserve Chicago's black social cultural lineage” (Honey Pot Performance). With our current project in Community GIS, we are seeking to help descendants of people buried in Brooklyn Cemetery find relatives’ graves and easily find family histories. Accessibility of community and family history is crucial for understanding one’s culture, heritage, and even oneself. These things help build the foundation for a stronger sense of identity for the individual and broader community.
+
+Coursework for Community GIS included readings on topics relevant to social research and Black geographies. “Plantation Futures” by Katherine McKittrick in particular helped frame concepts relating to mapping Black communities and relating present inequity to past suppression of Black voices. Our readings and discussions have worked to emphasize the ethical responsibility of cartographers and called into question who controls spatial narratives. As we’ve seen in class and through history, mapping is not just about representation--it’s about empowerment, resistance, and restoring erased histories.
+
+The Ethical Dilemma and Learning from Community Involvement
+
+The “tension of positionality” refers to the inherent challenges and complexities researchers face when acknowledging and navigating their own identities, biases, and power dynamics within the research process. In discussing the work we’re doing in this course, many questions have floated around in my head: who gets to map Black experiences? When does mapping become representation vs. appropriation? How do I avoid imposing a narrative as an outsider?
+
+I still feel like an outsider, because I have such little personal knowledge of the experiences of the people I’m researching. I have been looking through census records, ancestry records, city directories, anything that would help me piece together a family history. I have thought back to the many homemade family trees and scrapbooks (including family pictures, newspaper clippings, and more) my parents have shown me. It fills me with a sense of belonging and connection to know so much about my history. I feel like I know more about myself after looking through these books and hearing the accounts of my deceased family members. I started playing piano after hearing the stories about my nana’s, great aunt’s, and distant cousin’s inclination for music. I’ve heard so many stories of my family which have often built me up and given me a sense of pride in who I am and who I came from.
+
+From my own experience, I can understand the effect that the knowledge of my family history has had on my self-esteem and sense of belonging. As humans, we can understand the human experience of others. Instead of feeling unqualified as an outsider, I’ve instead embraced the project and done the best I could to work on recording history for families buried at Brooklyn Cemetery as thoroughly and thoughtfully as possible. I have learned about the limitations and past misrepresentations in mapping, and I can take these lessons and not make the same mistakes. I’ve learned that I can involve the community and focus on collaboration as well as maintain respect in every step of the research process. There are ways to build up the community and avoid misrepresentation and oppression; I’ve come to embrace this research for the potential of uplifting the community.
+
+Conclusion
+
+Working in the community has naturally brought up themes of historical injustice and prejudice, but this class has also offered tools to help with Black empowerment and restorative justice. Past utilization of cartography and geospatial resources by African American groups represent a potential for uplifting and evolving communities with these tools, and I believe the work we have done in this class and continues to be done by engaged and conscious community mapping can further work to serve disadvantaged groups.
+
+Sarah Justice is a senior at the University of Georgia studying Geography with a minor in Disaster ManagementKeywords: Brooklyn Cemetery, Black geographies, Inequality, Cartography

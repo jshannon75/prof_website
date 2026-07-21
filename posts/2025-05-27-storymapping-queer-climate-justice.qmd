@@ -1,0 +1,34 @@
+---
+title: "Storymapping Queer Climate Justice"
+date: "2025-05-27"
+author: "Maya Lee, CML CURO Student"
+---
+
+By Maya Lee, CML CURO Student
+
+This spring semester, I worked with Vanessa Raditz from the UGA Institute of Women’s Studies to continue their work on Queer Climate Justice. We built on an existing map that Vanessa created last semester with the help of other undergraduate researchers. This map combined multiple variables related to disaster risk for LGBTQ+ people and created a visual that highlighted areas where queer and trans communities are in urgent need of investment for disaster preparedness and response. You can view the StoryMap and read more about the projecthere.
+
+My work with Vanessa this semester included adding layers to the map that show projected future conditions in these high-risk areas for queer and trans communities. Before mapping, we researched climate modeling to determine which models and types of data would be most appropriate. Once we had a better understanding of climate models, along with their vocabulary and acronyms, we investigated critiques and limitations of climate modeling, including how bias corrections are done. After this, we began searching for the data needed for the new map layers. After meeting with Dr. Anna Harper from the Geography Department, we decided to use data from the Fifth National Climate Assessment (NCA5) for a 2°C (3.6°F) global warming scenario. From this dataset, we selected ten of the fifteen available variables.
+
+The previous map included a Cumulative Risk Index that combined FEMA’s National Risk Index data with information about where LGBTQ+ people live and the laws that affect them. This generated a single number that made the data easier to visualize. For the updated map, this index was revised and expanded into five distinct indexes, providing a more comprehensive view of climate-related risk and LGBTQ+ exposure:
+Current Hazards Index: This is the average of the Z-scores from the FEMA National Risk Index data. It shows present-day climate and natural hazard risks across the U.S., such as floods, wildfires, hurricanes, and other disasters.
+Future Hazards Index: This is the average of the Z-scores from the NCA5 (Fifth National Climate Assessment) data, which projects climate hazards under a scenario where global warming reaches 2°C. This helps identify regions that will likely become more dangerous over time due to climate change.
+Vulnerability Index:This combines social vulnerability and policy data, using the average of the Z-scores from:
+SOVI (Social Vulnerability Index): Measures a community's ability to prepare for, respond to, and recover from disasters.
+SO Policy Score: Reflects how state policies affect sexual orientation rights.
+GI Policy Score: Reflects how state policies affect gender identity rights.
+Exposure Index: This is the average of the Z-scores for four key metrics that reflect how LGBTQ+ people are specifically exposed to climate risks:
+Percent of the state population who are queer.
+Percent of the state population who are trans.
+Percent of the displaced population who are queer.
+Percent of the displaced population who are trans.
+Cumulative Risk Index: This final number is the average of the four other indexes listed above. It provides an overall summary that captures how each state scores in terms of climate hazard, vulnerability, exposure, and future risk, all through a lens that includes LGBTQ+ populations and policy environments.
+The final outcome of our work this semester was an updated map that includes these five indexes, raw data from FEMA’s National Risk Index, the ten selected NCA5 variables, and five additional layers showing the locations of fossil fuel power plants and pipelines.
+
+
+Through this project, I gained valuable experience with the mapping process. From researching and gathering data to cleaning and visualizing it using mapping tools such as ArcGIS Online, I was able to strengthen these skills and my familiarity with the entire workflow. Although I had a little prior experience, I now feel much more confident using the system.
+
+Finally, I gained experience working in a research setting with people outside a typical class structure.
+This was also my first time working directly with department staff outside of a class or club. It was an incredibly useful experience that helped me improve my time management, communication, and problem-solving skills. It also helped me build connections within the Geography Department and the Community Mapping Lab—connections that I know will continue to be valuable. Being introduced to the CML group has been especially meaningful, as I’ve learned about other projects, new connections, and ongoing work.
+
+Overall, this research project has been crucial for my skill development. I have enjoyed working on it, conducting research, and creating something meaningful for an important cause. This experience will continue to support my growth as I move forward in school and beyond.

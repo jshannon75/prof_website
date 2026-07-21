@@ -1,0 +1,33 @@
+---
+title: "What I've Learned This Semester"
+date: "2022-05-12"
+author: "Anna Burkhart, Student in Community GIS, Spring 2022What I have learned"
+---
+
+By Anna Burkhart, Student in Community GIS, Spring 2022
+
+What I have learned
+QGIS and ArcGIS pro navigation
+Esri story maps
+Technical skills (i.e., choropleth, bivariate etc.)
+Collaboration process
+ 
+The course is rooted in the local “grassroots” approach to servicing the local community. It feels more personal and high stakes, unlike taking a passive approach from most classes, within the ivory tower. For instance, in a traditional classroom setting, I would usually study from a textbook or direct source and take assessments, possibly having discussions. There would be no assignments or activities that involved any direct, hands-on involvement that led to real change in the community like this class.
+ 
+Community GIS’s Linnentown project best encapsulates the major difference between a traditional class I have attended. I thoroughly enjoyed learning about Linnentown and providing real, tangible representation for this erased community from UGA’s past. The openness and freedom within the class itself allowed me to focus on what I was interested in so I had that innate motivation. Out of all the GIS courses I took, this class made the biggest impact in my outlook on activism of a group. It definitely feels like I am making a direct contribution at my school, and I will take it with me after graduation.
+
+Linnentown Project
+Prior to this course, I was unfamiliar with the history of Linnentown. This project has been incredibly enlightening. I have become acquainted with Esri’s story map application, and I am impressed by its capabilities. Esri’s specific collection generated a lot of inspiration for our own project, and I think this work so far looks very appealing. I think it accurately and fairly portrays this history to a public audience. My work in the Erasure group emphasized the darker aspects of Linnentown’s removal and attempt at blotting out its history. Although unhappy, it rightfully placed all parties in their appropriate roles, good and bad. My group wanted to accurately represent the events as well as talk about it clearly since this can be viewed by anyone. The most arduous process involved reading through hundreds of archival records (pdf) and trying to decipher the cursive handwriting in order to quote it. When convening with my group, we focused a lot on writing edits and mostly the format of our section. I liked the collaboration process, and I know that these projects will involve much more especially with tight deadlines and time constraints. I think, with the knowledge I have gained just in this semester, it has made my work more efficient and I feel confident in working with another group in the future
+
+
+Impact
+
+
+Community contribution
+Linnentown recognition and fight
+Compassion and learning
+Real world application of GIS
+Learning from the past
+Future applications in personal passion of conservation
+ 
+This course provides a compelling start to the very real impact of GIS, and it provides a relevant foundation for my personal career goals. I want to pursue a land management, possibly environmental consulting, tract in which GIS skills will be especially beneficial. To elaborate, developing my skills and navigation around GIS applications (ArcGIS Pro, QGIS) will definitely help with future careers. I want to work in conservation as well and I know that GIS skills are sought after. In addition to the “hard” skills from class, soft skills from working with my respective groups are extremely helpful. I gained a lot from the Linnentown project and I am very proud about working on it. I feel better equipped for the future and excited to continue working in this field.

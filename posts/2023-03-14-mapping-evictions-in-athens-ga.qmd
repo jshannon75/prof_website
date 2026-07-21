@@ -1,0 +1,16 @@
+---
+title: "MAPPING EVICTIONS IN ATHENS, GA"
+date: "2023-03-14"
+author: "Vanessa Raditz, Student in Community GIS Spring 2023 Class and Volunteer with AHAT"
+---
+
+By Vanessa Raditz, Student in Community GIS Spring 2023 Class and Volunteer with AHATFor the second half of the Spring 2023 semester, the Community GIS class will be collaborating on an Eviction Mapping project with the Athens Housing Advocacy Team (AHAT), which is a local grassroots organizing group focused on the “fight for the right to affordable, healthy, dignified, stable housing as both a human right and the right to the city.” AHAT began tracking local eviction cases in 2021 in response to ACC Mayor & Commission conversations on a COVID-19 emergency rental assistance program and the lack of appropriate data about local eviction rates that could inform policy. The research project began with an interest in the impact and pitfalls of two rental assistance programs: the state-level Georgia Rental Assistance (GRA) and the local Eviction Prevention Program (EPP). Neither of these projects continue to operate, though ACC is currently seeking a new community partner to administer the EPP.
+
+With funding from the Urban Institute and technical support from the ACC Geospatial Office and the UGA Community Mapping Lab, AHAT has digitized dispossessory files from the ACC Magistrate Court between Sept 1, 2021- Jan 31, 2023, and has created a spreadsheet of data that pulls out relevant information from these files including plaintiffs (landlords), addresses, outcomes of the case, and qualitative notes from the tenant answer form, including if there are any references to GRA or EPP. Through collaborating with the Community GIS class, we want to better understand the data we have collected and what they can tell us about eviction trends. We will also be using other data sets related to Athens property ownership and the EPP program to think about bigger picture processes that create the conditions for evictions in Athens. Through this pairing, we hope this project can help AHAT shift the foundation of this project from “eviction mapping” to “anti-eviction mapping;” maps that can contribute to community organizing and local decision-making that supports tenants.
+
+In the initial report attached here, PhD candidate Jessica Martinez lays out some of the initial findings from their qualitative analysis of eviction files from the ACC Magistrate Court, field notes from a year of attending tenant meetings with AHAT, and interviews with AHAT community organizers. This qualitative data shares the ongoing story of housing insecurity in the Southeast from the perspectives of multiply-marginalized tenants and housing advocates. It gathers pieces of the overall story of housing that are frequently excluded or silenced, including the voices of tenant organizers, housing advocates, and community leaders who build complex relationships of solidarity and strategies of resistance that are essential to any initiative to ensure housing for all.
+​
+urban_institute_report_draft_-_updated_3_10__2023.pdf
+File Size:	430 kb
+File Type:	pdf
+Download File

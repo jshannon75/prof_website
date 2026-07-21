@@ -1,0 +1,63 @@
+---
+title: "The Positive Outcomes of Community GIS"
+date: "2023-03-03"
+author: "Tim Naff, Community GIS student in Spring 2023"
+---
+
+By Tim Naff, Community GIS student in Spring 2023Mapping and maps in general for me have always been about the visual aspect of it, their
+pleasing aesthetics and interesting information, nothing more. I've also always been a
+community-involved person, whether it be helping with food drives or more significant events
+such as local markets or social/mental awareness-promoting occasions. When I came across
+Community GIS, taught by professor Jerry Shannon, at the University of Georgia I didn’t
+hesitate to enroll. Prior to the course, I was unaware there was a way to combine my love for
+both GIS/maps and supporting my community in both enjoyable and beneficial methods.
+Throughout the first half of this semester our class has been tasked with creating a digital
+archive and maps for Brooklyn Cemetery, an all African-American Cemetery in Athens, GA.
+Formerly known as Bethlehem Cemetery, Brooklyn Cemetery is a historic cemetery that was
+established in the early 1800s and is located in central Athens. The cemetery contains many
+grave markers and monuments that date back to the 19th century and it is the final resting place
+of many prominent individuals from the Athens area, including Civil War veterans, local
+politicians, and business leaders. However, many are still illegible, unmarked, or unknown. The
+cemetery is still in use today and is maintained by its board of trustees working to ensure its
+place and existence in the history of Athens. Through many community events there has been
+noticeable progress on its restoration, such as cleaning and clearing brush and scanning for
+unknown buried persons. Our project is on somewhat of a different wavelength but with the
+same idea in mind, preserving and protecting Brooklyn Cemetery and its history, meaning, and
+integrity so that future generations, perhaps relatives, can seek their ancestors/family, as well as
+give locals the chance to learn about important history of their community.
+Learning about the history and context of what we are working towards was extremely
+valuable. Not only did I learn about the specific history of the cemetery but other stories and
+events that happened in the past that correlate with what our issue is, the invisibility and
+unrepresentedness of African-American related areas. An example is the Texas Freedom
+Colonies, an reading we did, which illustrates the invisibility of African-American agricultural
+communities in Texas post-emancipation. This relates to our project because Brooklyn Cemetery
+is almost invisible locally. It’s invisible in the sense that it is often overgrown in a somewhat
+hidden forested area and is barely marked. Much like the Texas Freedom colonies which were isolated, unregistered/off the record, and out of the scope of political and economical powers and
+resources. Another connection is that both have gained recognition in recent decades which is
+important so that the communities can restore and ensure the legacy they bring. Knowing the
+history of my community has always been of importance to me because I am a curious person
+and like to know why things are and where they are. So to get an idea and context for our issue at
+hand was both interesting and needed for our project.
+Besides learning about the history, the other important factor was the importance that
+both sides are tailored to, for class, the process of learning and experience, and for the
+community members, an end product that is attainable and of quality. Although a community
+project, this is a college course so learning has been a definitive factor. This is where our GIS
+“expertise” comes in. I have been introduced to aspects I had not know known, such as sites for
+data-grabbing, workflows, the importance of metadata, and teamwork. Also to mention are the
+critical thinking and problem solving aspects as well as the exposure to different perspectives
+and social injustice issues that are obtained through the process. However, the most valuable
+aspect for me of this class and project has been the opportunity to get real hands-on/professional
+experience being the most valuable.
+Through restoring and engraining the important history of Brooklyn Cemetery online and
+on-site through references and maps so far I have learned many things and can envision the
+immensely positive results that GIS and community involved work has to offer. Although
+unfinished, this project goal should help facilitate the expansion of my knowledge in GIS, my
+community, history, and perspectives so far. It has already helped me realize the potential of the
+combination. I’ve already gained knowledge in collaboration, software skills, concepts, and
+specific history all while enhancing my interest in GIS and community topics. That is all I
+could’ve asked for. Not even to mention the final product we will have when completely finished
+for the community members we’ve worked with. I hope it will successfully and effectively
+inform the community of Athens for years to come. I also hope to be involved in various
+community initiatives and promote community engagement and collaboration not only after this
+class but once I graduate to contribute whatever I can wherever I end up living, all whilst
+continuing to learn about my community and GIS.

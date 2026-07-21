@@ -1,0 +1,20 @@
+---
+title: "CML Update: Spring 2020"
+date: "2020-01-20"
+---
+
+By Jerry Shannon
+
+This spring marks the fifth anniversary of the Community Mapping Lab. This lab has changed a lot during this time. In the first years, we held regular meetings--primarily with graduate students--to discuss readings and share thoughts about community engaged geographic research. These meetings have become less frequent over time, but undergraduate involvement in the lab has increased considerably, primarily through support from UGA'sCenter for Undergraduate Research Opportunities (CURO), theGeorgia Initiative for Community Housing (GICH), and theCommunity GIScourse. CML has partnered withtwenty-fiveorganizations, including local community groups, non-profits, and local government. We've dipped our toes in the water of a few training sessions, including an upcoming training at theIntegrative Convervation Conference--watchthis pagefor more details. Because we're a diverse group with a wide range of interests and backgrounds, we started this blog just over a year ago as a forum for a collective conversation about doing community engaged work. In short, we've moved from early exploratory conversations to more structured opportunities for work with a wide range of partners.
+
+More specifically, last fall three CURO students partnered with community organizations around a range of issues:
+Jenny developed a print map of social services for the Athens-based non-profit The Sparrow's Nest. This built on an online map students in Community GIS developed in Spring 2019.
+Regina began work on a long term project with Bike Athens to develop a new biking map for the county.
+Chase contributed to ongoing research with GICH on rural housing issues. He'll be working with me and others in the spring to develop a paper on rural landlords using community developed data on local housing conditions.
+Posts here in the near future will provide more information about each of these projects.
+
+CURO students from Fall 2019: Regina, Chase, and Jenny (L to R)
+Chase (L) presented with me at SEDAAG (our regional geography association) in November. Long time CML member Aileen (R) also presented on her work with the Athens Free Clinic.
+This spring, Community GIS students will be partnering with the Linnentown Project, which is telling the story of an African-American community near the UGA campus that was demolished in the early 1960s to make space for student housing. Working with archival documents and oral histories, we're hoping to build an archive of materials that tell the story of this neighborhood and speak to current issues around displacement and the legacy of racial discrimination here in Athens.
+
+As the lab continues to grow, I'm hoping we will be able to create a local advisory group of community members that can provide input on our work, and I'd also like to diversify the voices on this blog to include partners outside UGA. Our work here also informs work I'm doing nationally to develop community geography as a subdiscipline, including the formation of a national group, future meetings like #commgeog19, and a special issue of the academic journal GeoJournal. Five years is a great achievement, but in many ways, it feels like we're just now getting started.

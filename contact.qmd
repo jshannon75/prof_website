@@ -4,8 +4,28 @@ title: "Contact"
 
 Feel free to reach out via email for questions about my research, graduate student opportunities, or collaborations.
 
+```{=html}
+<form action="https://formspree.io/f/mwvnjyly" method="POST">
+  <div style="margin-bottom: 1rem;">
+    <label for="name">Name</label><br>
+    <input type="text" id="name" name="name" style="width: 100%; padding: 0.4rem;">
+  </div>
+  <div style="margin-bottom: 1rem;">
+    <label for="email">Your email</label><br>
+    <input type="email" id="email" name="email" style="width: 100%; padding: 0.4rem;">
+  </div>
+  <div style="margin-bottom: 1rem;">
+    <label for="message">Message</label><br>
+    <textarea id="message" name="message" rows="6" style="width: 100%; padding: 0.4rem;"></textarea>
+  </div>
+  <button type="submit" style="background: #1a3a5c; color: white; padding: 0.5rem 1.5rem; border: none; cursor: pointer;">Send</button>
+</form>
+```
+
+
 **Jerry Shannon**  
 Associate Professor  
+jshannon (at) uga.edu
 [Department of Geography](http://geography.uga.edu)  
 [Department of Financial Planning, Housing, and Consumer Economics](http://www.fcs.uga.edu/fhce)  
 University of Georgia

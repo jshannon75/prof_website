@@ -1,0 +1,22 @@
+---
+title: "Georeferencing in ArcGIS Pro"
+date: "2022-04-20"
+author: "Will HarrisonStudent in Community GIS, Spring 2022"
+---
+
+By Will HarrisonStudent in Community GIS, Spring 2022
+
+The process of georeferencing is very important and useful in many different disciplines of geography. Georeferencing is the process of giving a raster image a geographic reference by overlaying that image to the same geographic reference on the basemap so that the two images align. To do this, you will need to open up a geographic software. I’m going to be using ArcGIS Pro as an example.
+
+Once you start a new project, you will see a basemap of the world in front of you. The first thing you want to do is change the projection to a more precise projection. I have changed mine to NAD 1983 UTM Zone 16, because I am dealing with georeferencing within Georgia, which is in zone 16. I would also recommend you change the basemap under the map tab if you are dealing with buildings or parking lots. If you are just dealing with streets, keep it on the topographic basemap.
+Next, you need to find the raster image. A raster image is a graphic that represents a two dimensional image as a grid of pixels. I am choosing a JPEG campus map of the University of North Georgia. I put the JPEG in the same folder as my ArcGIS project, so when I click add data, I know where to find it. Once it is added, your basemap won’t change. If I go to the UNG campus on the basemap, it will not be there, because the JPEG has no geographic reference.
+
+ On the left of your screen, you can see the JPEG underneath the contents section. Right click on the JPEG and click “zoom to layer” to find your raster image. If you zoom in or out, you can see it is in a random spot. My image is in the Galapagos Islands. So, now you need to put it in the right spot.
+
+Under the imagery tab, click the “georeference” button to get started. There should be a box indicating so in the top right of your basemap. Then under the georeference tab, click “add control points” to identify a specific point on the raster image. It should show a red square where you clicked. There should also be a dashed line following your cursor. You need to then zoom into where that exact point is on the basemap. It will then show a red circle with an “x” through it to symbolize the completed control point created. Street intersections or building corners are a good reference to use.
+
+Once you do this, the map should now be in the same general area, except now your raster image is covering your basemap. To get around this, go to the appearance tab at the top. Mess around with the transparency of the image. This way, you can see both images at once. The more control points you create, the more accurate it will be. Trying to add control points on opposite sides of the imagery helps to place it more accurately, quicker.
+
+In just three control points, most of my map is placed correctly. If you go back and forth between transparencies, you can see how accurate it is. The buildings, parking lots, and roads will start to align perfectly. If they aren’t lining up, try looking at your control point. If there is not one created near where it is not aligned, try and create one. If there is a control point near and it is still not lined up, you may want to see if a feature has changed over time.
+
+Once again, this can be useful in many different geographic ways. The use of control points, for example, is used by a surveyor on AutoCAD. AutoCAD is another geographic program. The surveyor needs control points to geographically reference himself in the real world to put points on a job site. In our class, we just use it to reference a boundary line JPEG that doesn’t have geographic information attached to it, but it is a relatively simple process if you’d like to do it yourself.

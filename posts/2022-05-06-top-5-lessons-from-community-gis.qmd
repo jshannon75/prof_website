@@ -1,0 +1,89 @@
+---
+title: "Top 5 Lessons from Community GIS"
+date: "2022-05-06"
+author: "Miles Montello, Student in Community GIS, Spring 2022"
+---
+
+By Miles Montello, Student in Community GIS, Spring 2022
+
+...ranked in no particular order, here are five new nuggets of information that stuck out to me
+since starting this class in January of 2022...
+
+1) Know how to plan a task with a groupIn my experience, the group projects that go the most efficiently are the ones where there’s one
+dominant person who is the most passionate about the task and can get the less passionate group
+members smoothly convinced of their vision early in the timeframe given. Groups where all the
+members are either too shy or too indifferent wind up with a wishy-washy concept of a final
+product and it’s awkward for everybody. If there are two dominant people with conflicting
+visions then their egos may clash, but usually a resolution is reached early on. Just because
+there’s a space for someone to step up doesn’t mean anybody necessarily will- until the deadline
+gets close enough that either someone caves in or everyone comes to an agreement. In my
+opinion, it’s apt evidence for the 80-20 rule, which is a principle that says that roughly 80% of
+consequences come from 20% of causes- 80% of the work/planning is done by 20% of the
+participants. Clearly defining tasks from the beginning makes it the least stressful, and the tasks
+don’t even necessarily need to be divided equally because the quality of every member’s work is
+proportional to how invested they are in the topic. I’m proud of my group’s contributions to the
+Linnentown Storymap, which was a web map the class produced describing a black
+neighborhood in Athens doomed by Urban Renewal to be replaced by freshman dormitories.
+Each group of 4-5 students were given a section to create on our own. I would describe the first
+half of our time given as sheepishly figuring out what we should do, the second- executing the
+original agreed upon vision which was subsequently revised, and the last fifth- creating most of
+what would be on the final product.
+
+2) Teams make monotonous tasks go quickerThis lesson from the class also applies to life in general. Having multiple people assigned to a
+creative task as opposed to one or two people creates the awkward scenarios I previously
+described. On the other hand, if you have human capital, having multiple people assigned to a
+clearly defined repeatable task that is too big for one person is super-efficient. I recall Dr.
+Shannon remarking on how the task of geolocating all of Athens’ downtown businesses on the
+AADM list (of which there were around sixty) would’ve taken hours for one person to do but
+was shortened to two minutes by each student being assigned four businesses to add coordinates
+to on a shared cloud document. If you tell a random set of eight people to paint a twenty-yard
+wooden fence a certain color or pattern, it’s going to be finished in an hour or two if they have
+the materials. If you tell them to paint a mural on the fence, it’s going to take way longer and the
+result will have very noticeable gaps in artistic ability between the painters.
+
+3) Text mine efficientlyThe 1958 Athens City Directory existed only as a physical book, yet the Community Mapping
+Lab was working to digitize the information listed inside- from names, addresses, occupation,
+race, home ownership, etc. To do so, the entire directory was scanned- but to be able to
+manipulate the data it needed to be recorded on a digital spreadsheet. When trying to collect data
+from a scanned paper document, transferring what is on the page into manipulable digital text
+is a big challenge. Your saving grace in this Herculean task are programs that “text mine”- using
+artificial intelligence to read the scanned text for you and transcribe it in plain text into the
+program you tell it (Word, Excel, etc.). There are various ones, from paid to free and open
+source. Knowledge of coding is often necessary, mostly to tell the program how to separate lines
+of text. Keep in mind that there can be a lot of room for error, and you might be disappointed to
+find the resulting text is littered with problems. Data cleaning is tedious, but it was a necessary
+part of our classes’ digitization of the 1958 Directory. If the dataset is small enough (hundreds
+of lines of dozens of pages instead of tens of thousands of lines of hundreds of pages) consider
+manually typing the lines of info as you read them (which is what I did for the pages I data
+cleaned). Something which accelerates this task leads to my next point...
+
+4) Two monitors are better than oneWhen you have a task involving cross-referencing (like data cleaning), it can break your train of
+thought to have to be constantly opening and closing the same two or three tabs. Opening the
+wrong tab by accident making you forget the short line of info you just memorized can make you
+grind your teeth. Even a simple action like that can break your flow. So, I’m grateful that the GIS
+lab has two monitors to a desktop. I find it so much easier to not have to move my hand and
+simply glance from one fully visible document to another. This also makes it easier to keep up
+with web tutorials among many other tasks.
+
+5) Google Sheets ...excels your workBoth Google Sheets and Excel are great for data organization related to GIS. I made a map using
+the data from the 1958 Athens City Directory where I showed the locations of the residences of
+blue collared workers (blue dots) and white collared workers (yellow dots). This was not a
+distinction made by the directory itself. I took the top 300 occupations listed and categorized
+them myself using a pivot table to create a new column with a new value. If this option were not
+available, the task would’ve been too big for me. Knowledge of these two applications helps you
+work with data more efficiently. I prefer Google Sheets due to how easy it is to apply and use
+add-on tools from the Google Workspace Marketplace, paired with the ease of sharing the
+document with others. Offline Excel cannot be edited live by multiple people, and while online
+Excel documents can- the plugins available for geocoding are more limited and take extra steps
+to add...
+
+Google has SIX paid options:
+
+Versus FOUR paid options for Office
+
+Three extra tips? No way!
+Don’t just assume that something is located where the first result on Google says it is, especially if you're searching for somewhere historic. To avoid being anachronistic, do a minute of extra research and research the history of the specific place to learn if the building had moved from somewhere else. During the Linnentown Project, I almost located Burney-Harris High School 5.5 miles northwest of where it was in the 1960s.
+
+Mind the map projection and coordinate system you’re using! If there’s no uniformity something won't be placed right. Don’t mix WGS-84 with NAD-83.
+
+Keep the login details to the websites you sign-up for in class somewhere you can easily access from the lab-your book bag, notebook, phone, etc. Unless you have the same password for everything, you’re going to forget when told to log back in weeks after.

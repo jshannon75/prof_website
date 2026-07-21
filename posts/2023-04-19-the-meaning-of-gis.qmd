@@ -1,0 +1,70 @@
+---
+title: "The Meaning of GIS"
+date: "2023-04-19"
+---
+
+Mase Shepherd, Community GIS student in Spring 2023Course Summary
+The first half of Community GIS began with a project associated with the Brooklyn Cemetery in
+Athens, Georgia. Despite housing many individuals and families with generational occupancy in
+Athens, this African-American cemetery, as a result of the deep south’s close ties to racism,
+prejudice, and slavery, has been historically neglected. The trustees of the cemetery, called the
+Friends of Brooklyn Cemetery, have been working over the years to bestow rightful dignity and
+honor to their loved ones resting here by improving the cemetery’s overall state. Working in
+accordance with Dr. Jerry Shannon, the Community GIS instructor, and Linda Davis, a
+representative from the Friends of Brooklyn Cemetery, our class worked as a team on various
+projects to fulfill goals we set to improve the cemetery, which included organizing the cemetery
+into sections, laser-printing section signs, cleaning and speculating existing data of those buried
+at the cemetery, locating the gravesites of individuals and families in GIS, creating physical and
+online maps of the cemetery with GIS, and documenting all metadata and processes used to do
+so.
+
+Currently underway, the second half of Community GIS involves working on an eviction
+mapping project with the Athens Housing Advocacy Team (AHAT), analyzing Athens’ eviction
+data to ultimately uncover eviction trends that may support local tenants, encourage future
+eviction prevention programs, and advise relevant policy.
+
+Reflection
+Up until the beginning of Community GIS, although I never considered myself an expert by any
+means, I thought I possessed a relatively well-rounded idea of what GIS was and what it meant
+to do GIS. But, as I now understand, there existed a branch of GIS methodology I had not yet
+been introduced to.
+
+I must note, Community GIS has certainly enhanced my technical GIS abilities, in addition to the
+introduction of new ones. We used ArcGIS Field Maps – a phone application allowing one to
+access and add data to online web maps made in ArcGIS Online – which I had not done before.
+We used this tool on-site at Brooklyn Cemetery to gather point data with attribute queries for
+individuals’ gravesites. We made a searchable web map for the Brooklyn Cemetery using
+ArcGIS Online’s “create app” tool – a feature that can export interactive maps for public, user-
+friendly use on media platforms – which I had also not done before. This app, once published on
+their website, will allow Brooklyn Cemetery visitors to search for, locate, and give regards to
+friends or family buried at the cemetery. With the recent initiation of our second project with
+AHAT, we practiced heat mapping and point pattern analysis and aggregation mapping using
+eviction data in both ArcGIS Pro and QGIS which, again, I had not done before. These few
+examples represent some of the tangible GIS skills and concepts learned from class and projects,
+but they do not represent my most valuable takeaway thus far.
+
+What I value most comes from Dr. Shannon’s guidance on Community GIS theories and
+methods in lecture. I never studied GIS in a social environment nor received any form of GIS
+ideology or philosophy, and I never thought of the importance of such theory in a seemingly
+rigid discipline that operates on numbers, statistics, and data. However, there is much more to
+GIS than producing maps and models. This class urged me to think about meaning behind GIS
+when working with a community, reminding me to reflect on purpose and empathize with those
+involved. This sense of purpose and feeling of emotional connection through GIS resonated with
+me, as empathy and emotion resonates to some extent within all of us. With the latter in mind,
+we also learned that when you do GIS with or for people, you can derive and employ qualitative
+data along with quantitative data, and I found weight of this new concept.
+
+Consider rhetoric, which comprises 3 branches – ethos, pathos, and logos. Rhetoric is a powerful
+tool that induces change through persuasion. Rhetoric is ingrained in science, used to observe
+change, study change, relate change, change the way we think, and change what we do or how
+we act upon something. I think science tends to operate on ethos and logos alone, with ethos
+usually assumed as a given, and logos the reviewed, repeatable methodology that supports the
+theory. These two branches of rhetoric drove all of my previous GIS studies. Contrarily,
+Community GIS taught me to consider pathos when doing GIS, as well. As I mentioned, GIS can
+be carried out with qualitative data, rather than just quantitative, using audio files of personal
+accounts attributed to point datasets or pictures and videos from community members linked to a
+map, for example, which can inspire empathy. This is significant because pathos is an equally
+important third branch to rhetoric, and including it via qualitative data in GIS can strengthen
+rhetoric, thus strengthening the power to change. And, when scientific methodology, data, and
+GIS coalesce, this strengthened power to change can be better used to help improve the human
+condition.

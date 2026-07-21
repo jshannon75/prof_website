@@ -1,0 +1,27 @@
+---
+title: "Goodness gracious, it's gentrification!"
+date: "2024-04-25"
+author: "Catherine Campbell, Community GIS Student Spring 2024"
+---
+
+By Catherine Campbell, Community GIS Student Spring 2024
+
+You might notice a Starbucks popping up where a local restaurant once stood and see economic growth in a low-income area. On the other hand, you may view this change as a warning sign of dangerous community displacement. Either way, you’ve likely witnessed the effects of gentrification. Less familiar, however, is the concept of studentification.
+ 
+This semester, I am taking a Community GIS service-learning course during which we’re exploring the ways we can apply GIS to better understand and address issues in our local community. So far, our primary focus has been studentification and how it’s affecting communities in the East Athens area. Throughout the past few weeks, we’ve been learning different GIS tools and methods through the lens of exploring these effects.
+
+Study Area of Inner East Athens
+​In my short time here at UGA, I’ve watched Athens rapidly change. Luxury apartment complexes seem to pop up like weeds, and chain restaurants replace local cuisine. In the beginning of the semester I learned that this phenomenon is called ‘studentification’. More specifically, studentification refers to the gentrification-like effects of student residencies in communities neighboring Higher Education Institutions. Like gentrification, studentification has impacts on economic, social, and cultural aspects of neighborhoods with a high density of student residents. The consequences, by nature, tend to have disproportionate impacts on low-income and marginalized communities.
+ 
+In class, we learned how to map U.S. census data in QGIS as a facet for establishing a baseline understanding of such conditions in Athens. This allowed us to visualize the distribution of undergraduate students in comparison to the demographic characteristics of the areas in which they’re located. Using data from the 2018-2022 census, we calculated variables such as race, income, and number of undergraduate students as a percent of the total population and mapped them in QGIS.
+
+Something I hadn’t considered before this course was how the recent changes in student lifestyles exacerbates gentrification in college towns. In the past decade or so, it’s become increasingly common for students to move into apartment buildings specifically designated as student housing, rather than living in dorms or renting local houses. This is especially true in Georgia where residents of high academic achievement have access to the Hope and Zell Miller scholarships. While they generously cover a large portion of tuition, this means that UGA students tend to have more money to spend on amenities like expensive student-oriented apartments.
+ 
+As a result of a larger student demand for luxury apartments, property taxes increase in nearby neighborhoods. Often, local residents can no longer afford housing and/or are more susceptible to being bought out by private developers. Property management companies repackage single family homes as multiple occupancy student housing or rebuild the property entirely. Unfortunately, these are rarely equitable transactions. Residents are frequently unaware of their property’s real value or have been desperately rushed into the sale.
+ 
+In our Community GIS lab, we explored these changes in property sales prices through the process of learning how to perform point pattern analysis techniques in ArcPro. Using housing data from the county tax assessor, we georeferenced residential properties in Athens and mapped their sales prices per square foot using ArcoPro. To more effectively visualize the patterns in this data we then overlaid the map with a hexagonal grid and aggregated values into a mean sales price per square foot for every property within each hexagon using the Generate Tessellation and Summarize Within tools. In addition to calculating average sales price per square foot for 2010-2012 and 2020-2022, we created maps showing the difference in averages between these two time periods, as well as the percent difference.
+
+Locations like our study area in East Athens, conveniently located nearby college campuses or downtown areas, are disproportionately affected by studentification. Affluent student populations are able to congregate in large numbers in these areas, not only raising property prices but occupying areas with highest access to necessities like public transportation and grocery stores.
+The scarcity of access to basic needs only makes things harder, costing valuable money and time for residents forced to find housing further and further from optimal locations. Like gentrification, the effects of studentification are compounding.
+ 
+These first few weeks of class have allowed me to practice using GIS software while beginning to understand what studentification is and how it’s impacting Athens. This has opened my eyes to the deeper ramifications of the changes I’ve noticed around me throughout my time as a student here at UGA. Not only did our class learn useful techniques and programs, but we built a foundational understanding of the conditions in our study area.

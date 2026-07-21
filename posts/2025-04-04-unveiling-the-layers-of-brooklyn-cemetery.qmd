@@ -1,0 +1,17 @@
+---
+title: "unveiling the layers of brooklyn cemetery"
+date: "2025-04-04"
+author: "Riley Kline"
+---
+
+by Riley KlineMost people imagine GIS (Geographic Information Systems) as highly detailed maps or intricate spatial analysis. However, in my community GIS class, we use it for something much more personal, restoring forgotten histories. Our class, led by Dr. Shannon, has partnered with Ms. Linda Davis and Friends of Brooklyn Cemetery to map unmarked graves, document family sites, and guarantee that the stories of those laid to rest aren’t lost to time.
+
+At the start of the semester, we focused on dissecting the “behind-the-scenes” of data collection by learning how to correctly gather information, which also involves building our relationship with the Athens community. We became familiar with the importance of coproduction, recognizing that meaningful GIS projects are about collaboration, inclusivity, and ensuring that the voices of the community are heard. We met with Ms. Davis to discuss her expectations and concerns with the project and hear a brief background of each family. Speaking with Ms. Davis opened my eyes to the deeper significance of our work. Previously, I viewed our research as one-dimensional names, but after hearing her share personal anecdotes, the history came alive. There was an immediate shift in her energy as she spoke about these families, most of which had lived in Athens for generations and she knew personally. I could feel her passion for her community, and I realized the project wasn’t just about mapping headstones or digitizing records, but rather honoring family legacies and preserving their stories. 
+
+We had an opportunity to explore Brooklyn Cemetery for ourselves, and as we walked through the cemetery, it became clear that time had taken its toll. The paths were eroded and littered with limbs, while headstones, if present at all, were heavily weathered. Many graves remained nameless, with only a PVC pipe marking their burial, a bleak reminder of those whose histories risk being forgotten. As we continued through the cemetery, we couldn’t help but silently reflect on the lives of those buried beneath our feet. The silence was heavy, interrupted only by the snapping of twigs and the distant buzz of the growing city beyond the cemetery. The sacred cemetery, in recent years, has become encroached on by new infrastructure projects and residential developments. This increasing intrusion makes it all the more urgent to document and restore the cemetery, so families have a place to remember their loved ones. As Athens continues to grow, the cemetery’s historical significance risks being overshadowed. It was a startling realization that without our and the community’s efforts, these graves and the stories they hold could be lost. 
+
+It is our mission to bring renewed recognition to this sacred space. Our work is not just points on a map, but rather preserving stories, connecting with history, and helping to guard the memory of those who came before us. With this perspective in mind, we refined our approach, ensuring that our data collection methods aligned with the community’s needs. We prioritized accurate, consistent data with clear visualizations that would be useful for families searching for their ancestors, and remained mindful of the ethical responsibility that comes with documenting historical spaces.
+
+Riley Kline is a fourth-year undergraduate at UGA studying Geography with an emphasis on GIS and urban/metropolitan studies.
+
+Keywords: GIS, Community Mapping, Coproduction
